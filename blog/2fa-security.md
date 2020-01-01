@@ -13,7 +13,7 @@ I recently upgraded my online security for work. After that process I decided to
 
 The takeaway:
 
-1. Use a password manager 
+1. Use a password manager service
 
 2. Use 2FA (two-factor authentication) — but don't use the SMS (text message) method because <a href="https://www.theregister.co.uk/2016/12/06/2fa_missed_warning/" target="blank">it's risky</a>. Instead, choose an <a href="https://authy.com/" target="blank">authenticator app</a> or a physical U2F key. 
 
