@@ -104,7 +104,7 @@ Remember, these three areas of activity — acquisition, behavior, and outcomes 
 It's impossible to be a remarkable, successful customer-centric company if you are not thinking, before strategy is ever written, in terms of the complete customer journey, offline and online, and designing for it wisely. 
 
 <details>
-  <summary>What's a customer journey?</summary><br/>
+  <summary>What's a customer journey?</summary>
 <p class="highlight2"> The customer journey is simply the sum of experiences your customer has with your business from the moment they first discover you to the first purchase and (hopefully) repeat purchases.</p>
   <p>Those experiences can largely be architected by you. They spark feelings, perceptions, intrigue, deep thinking, and more on the part of the prospect. The goal is to imbue each experience with the highest value possible.</p>
 <p>You can think of it as a relationship journey, characterized by a first encounter, a gradual but deepening knowledge of each other and satisfaction in each other, and culminating in a growing commitment.</p>
