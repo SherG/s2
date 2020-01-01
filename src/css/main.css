@@ -114,3 +114,11 @@ nav .active {
   height: 100%;
   border: 0;
 }
+
+.highlight {
+background-color: #E0FBF1;
+}
+
+.right {
+ float: right;
+ padding: 0 0 0 2em;}
