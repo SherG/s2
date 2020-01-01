@@ -44,7 +44,7 @@ It requires working through questions like:
 
 ## 1. How Are We Going to Acquire Traffic From Our Target Audience?
 
-* Who is our audience? What do we know about their behaviors, values or preferences?
+* Who is our audience? What do we know about their behaviors, values, or preferences?
 * How do we find our audience? 
 * How can we increase awareness of our brand among this audience? What sort of "brand introduction" would our audience find delightful or appealing?
 * Once individuals become aware of our brand, what's our plan for enticing/influencing them to consider what we offer? Which options are the most <a href="/business-priorities/">cost- and time-effective</a>? 
