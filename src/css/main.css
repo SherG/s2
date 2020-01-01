@@ -124,3 +124,9 @@ background-color: #E0FBF1;
 .right {
  float: right;
  padding: 0 0 0 2em;}
+
+.markdown-body blockquote {
+border-left: .25em dotted #20B2AA !important; 
+font-size: larger;
+font-style: oblique;
+  }
