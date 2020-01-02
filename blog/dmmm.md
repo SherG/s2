@@ -69,7 +69,7 @@ Examples of top line business objectives:
 * Broad financial objectives like: increase sales, grow revenue
 * Improve online efficiencies
 * Innovation-based objectives
-* Development of a new technology or experience
+* Development of a new technology or user experience
  
 
 ## Step 2: Identify goals
