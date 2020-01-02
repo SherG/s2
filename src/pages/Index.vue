@@ -10,8 +10,11 @@
       </div>
     </div> <!-- end hero -->
 
-    <div class="container-inner mx-auto">
-      <p class="text-lg sm:text-xl">This gridsome theme was forked from my <a href="https://andremadarang.com">personal website</a>. I added more features and decided to release it as an open source project. Check it out on <a href="https://github.com/drehimself/gridsome-portfolio-starter">GitHub</a> or check out the <a href="https://www.youtube.com/watch?v=uHo6o1TNQeE">screencast I did</a>. Feel free to use it for your own site or projects! Lorem, ipsum dolor sit amet consectetur adipisicing elit. Minima, repellat. Dolores iure, quas perspiciatis rerum quaerat atque eum repellat autem.</p>
+  <div class="container-inner mx-auto">
+      <p class="text-lg sm:text-xl"> Digital marketing — with its thousands of tools and tactics — can be disorienting and lead to fragmented efforts. SignalFox is a free resource for small business owners looking to make sense of marketing in order to act effectively. </p><br/>
+
+<p class="text-lg sm:text-xl">This site grew out of conversations I had with small business owners who were looking for a way to make better decisions and avoid wasted marketing spend.
+ </p>
 
       <div class="flex justify-between items-center py-6">
         <div class="w-full sm:w-1/2 px-8 py-8 sm:py-0">
@@ -22,6 +25,16 @@
         </div>
       </div>
     </div>
+    
+      <div class="container-inner mx-auto"><br/>
+      <p class="text-lg sm:text-xl">So how does it work? <br><br>
+1. We analyze your digital properties and practices, right down to the code. <br>
+2. Then we provide a unifying framework that brings your options into sharp focus and surfaces key opportunities.<br>
+3. Partnering with you as an advisor, we work with you on the creation of an integrated digital strategy to capitalize on these opportunties.<br></p><br><br><p class="text-lg sm:text-xl"><a href="/signalfox/">Get more details</a>.</p><br>
+  
+ <p class="text-lg sm:text-xl"><a href="/signalfox/">Get more details</a>.</p>
+   <br/> </div>
+    
 
     <div class="overflow-x-hidden">
       <div class="projects container-inner mx-auto text-xl border-t border-gray-500 border-b py-16 mb-16 relative">
