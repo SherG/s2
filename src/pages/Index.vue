@@ -93,8 +93,10 @@
 
           <p class="mb-12">Have a question about SignalFox services or content? Drop us a line.</p>
 
+          
           <div class="text-lg sm:text-lg mb-16">
-            <form action="#" class="mb-12">
+            <form method="POST" action="#" name="contact" class="mb-12" data-netlify="true">
+          
               <div class="flex flex-wrap mb-6 -mx-4">
                   <div class="w-full md:w-1/2 mb-6 md:mb-0 px-4">
                       <label class="block mb-2 text-copy-primary" for="name">
@@ -121,11 +123,11 @@
                   <textarea id="message" rows="5" name="message" class="block w-full bg-background-form border border-border-color-primary shadow rounded outline-none appearance-none focus:border-green-700 mb-2 px-4 py-4" placeholder="Enter your message here." required></textarea>
               </div>
 
-              <div class="flex justify-end w-full">
+ <div class="flex justify-end w-full">
                   <input type="submit" value="Submit" class="block bg-green-700 hover:bg-green-800 text-white text-sm font-semibold tracking-wide uppercase shadow rounded cursor-pointer px-6 py-3">
               </div>
           </form>
-          </div>
+      </div>
         </div>
       </div> <!-- end contact-me -->
     </div>
