@@ -101,7 +101,7 @@
                           Name
                       </label>
 
-                      <input type="text" name="name" id="name" placeholder="Jon Snow" class="block w-full bg-background-form border border-border-color-primary shadow rounded outline-none focus:border-green-700 mb-2 p-4" required>
+                      <input type="text" name="name" id="name" placeholder="Your name" class="block w-full bg-background-form border border-border-color-primary shadow rounded outline-none focus:border-green-700 mb-2 p-4" required>
                   </div>
 
                   <div class="w-full px-4 md:w-1/2">
