@@ -32,7 +32,6 @@
 2. Then we provide a unifying framework that brings your options into sharp focus and surfaces key opportunities.<br>
 3. Partnering with you as an advisor, we work with you on the creation of an integrated digital strategy to capitalize on these opportunties.<br></p><br><br><p class="text-lg sm:text-xl"><a href="/signalfox/">Get more details</a>.</p><br>
   
- <p class="text-lg sm:text-xl"><a href="/signalfox/">Get more details</a>.</p>
    <br/> </div>
     
 
