@@ -6,6 +6,7 @@ summary: Learn about Avinash Kaushik's powerful 5-step process to align your bus
 tags: ['strategy','models']
 ---
 
+<div class="markdown-body"><div>
 <transition-component />
 <div data-v-abdf8a92><button class="bg-green-900 hover:bg-green-800 text-white px-4 py-2 rounded" data-v-abdf8a92>
    FAQ 1
