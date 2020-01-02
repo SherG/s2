@@ -8,7 +8,7 @@ tags: ['website optimization', 'images']
 
 Images are one of the primary factors behind slow website load times. Optimizing your images can lead to significant and immediate speed wins.
 
-In this article you'll learn how you can optimize your images to boost your site loading speed. I'll give you the tools and information you need to start moving forward on this today.
+In this article you'll learn how you can optimize your images to boost your site loading speed. 
 
 ## Why Is Site Loading Speed Important?
 
