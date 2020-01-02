@@ -37,7 +37,7 @@
 
     <div class="overflow-x-hidden">
       <div class="projects container-inner mx-auto text-xl border-t border-gray-500 border-b py-16 mb-16 relative">
-        <h2 class="font-bold mb-6" id="projects">Here are some projects I've worked on:</h2>
+        <h2 class="font-bold mb-6" id="projects">Some fun projects I've worked on:</h2>
 
         <div class="absolute right-0" style="top: 50px; transform: translate(100%) rotate(180deg)">
           <svg width="170px" height="170px"><use xlink:href="#dots-triangle" /></svg>
@@ -45,20 +45,20 @@
 
         <ul class="text-lg sm:text-xl">
           <li class="checkmark mb-6">
-            <div>Project One</div>
-            <div class="text-lg text-gray-600">Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui ab nam animi iure nemo exercitationem a, eius non culpa itaque!</div>
+            <div>SaaS Product Currently in Development</div>
+            <div class="text-lg text-gray-600">"Absolutely phenomenal." Advised Y-Combinator, Peter Thiel-funded entrepreneur on product concept. </div>
           </li>
           <li class="checkmark mb-6">
-            <div>Project Two</div>
-            <div class="text-lg text-gray-600">Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui ab nam animi iure nemo exercitationem a, eius non culpa itaque!</div>
+            <div>Multi-Channel Marketing Automation</div>
+            <div class="text-lg text-gray-600">Created integrated strategy for 7-figure non-profit, resulting in a 3,300% increase in conversions.</div>
           </li>
           <li class="checkmark mb-6">
-            <div>Project Three</div>
-            <div class="text-lg text-gray-600">Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui ab nam animi iure nemo exercitationem a, eius non culpa itaque!</div>
+            <div>Case Study</div>
+            <div class="text-lg text-gray-600">Developed case study for Smithsonian Institution's Romare Bearden mobile app. Tested mobile apps.</div>
           </li>
           <li class="checkmark mb-6">
-            <div>Project Four</div>
-            <div class="text-lg text-gray-600">Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui ab nam animi iure nemo exercitationem a, eius non culpa itaque!</div>
+            <div>Content Marketing</div>
+            <div class="text-lg text-gray-600">Work under an NDA for European company, with a very bright team, delivering continuous growth. </div>
           </li>
 
         </ul>
