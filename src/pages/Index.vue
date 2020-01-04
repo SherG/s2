@@ -60,6 +60,9 @@
             <div>Content Marketing</div>
             <div class="text-lg text-gray-600">Work under an NDA for European company, with a very bright team, delivering continuous growth. </div>
           </li>
+          <li class="checkmark mb-6">
+            <div>Founder of <a href="https://www.spearfishcap.com/" target="blank">Spearfish</a></div>
+            <div class="text-lg text-gray-600">Smart funding for small businesses.</div>
 
         </ul>
       </div> <!-- end projects -->
