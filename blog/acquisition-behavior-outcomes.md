@@ -203,7 +203,7 @@ The DMMM will ensure each digital activity you plan is rooted in your business o
 Note: Make sure all senior decision-makers have a strong grasp of digital measurement. If you don't understand how to measure success you can't lead your team to success.  
 
 
-### Related Reading
+### Related Reading and Resources
 
 Here are some additional resources related to business outcomes, strategy, and effective use of social media.
 
@@ -226,6 +226,10 @@ How to avoid Zuck Death Spiral.
 #### <a href="https://www.baekdal.com/strategy/how-we-lost-social-media-to-algorithms/" target="blank">How We Lost Social Media to Algorithms</a>
 
 What do social media algorithms and cornflakes have in common? In this insightful article by Thomas Baekdal find out how "we end up with content that drives a lot of engagement and activity but which means very little."
+
+#### <a href="https://www.spearfishcap.com/" target="blank">Smart Funding for Small Business</a>
+
+Check out my other business, <a href="https://www.spearfishcap.com/" target="blank">Spearfish</a>, which provides free consulting and funding solutions for small businesses. 
 
 <hr>
 <p><small><em>Photo of <a href="https://www.flickr.com/photos/sesconferenceseries/4460050428/in/photolist-7N7VBb-4RU9xE-nSRzFr-4RUam9-cRQ7vq-7JqyxN-3Lanz2-4aHhwp-7hLmvu-7N8tn3-abxgDi-bED7FD-78t5Rz-7DJy1n-6qUbhs-78sYzg-4RZTTd-78wQwy-78wPcj-6djUga-nkmvNq-avwVpM-6ynUm3-ncLKcn-8MurP8-6qQ1ap-nkn86M-nBQzYG-a8wakX-9gCUkq-93qNjf-4RZVrY-nWbrH6-itYpw2-4RZVcS-9qjFyC-93qN7s-9W4CH1-6qQ17n-7if3XS-8D1XXr-93nEoH-dd8qT1-6XKTk5-78t4aD-4FNKYL-8D1XHT-gNQtDt-mmy3FH-eBnsp2" target="blank">Avinash Kaushik</a><span> by <a href="https://www.flickr.com/photos/sesconferenceseries/" target="blank">SesConferenceSeries</a></span> is licensed under <a href="https://creativecommons.org/licenses/by/2.0/?ref=ccsearch&atype=html" style="margin-right: 5px;" target="blank">CC BY 2.0</a><br/>Cropped by SignalFox</small></p>
