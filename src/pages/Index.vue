@@ -11,7 +11,7 @@
     </div> <!-- end hero -->
 
   <div class="container-inner mx-auto">
-      <p class="text-lg sm:text-xl"> Digital marketing — with its thousands of tools and tactics — can be disorienting and lead to fragmented efforts. SignalFox is a free resource for small business owners looking to make sense of marketing in order to act effectively. </p><br/>
+      <p class="text-lg sm:text-xl"> Digital marketing — with its thousands of tools and tactics — can be disorienting and lead to fragmented efforts. SignalFox is a marketing advisory service that helps small business owners make sense of marketing in order to act effectively. </p><br/>
 
 <p class="text-lg sm:text-xl">This site grew out of conversations I had with small business owners who were looking for a way to make better decisions and avoid wasted marketing spend.
  </p>
