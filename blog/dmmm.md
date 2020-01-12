@@ -15,7 +15,7 @@ It provides a brainstorming and planning framework for (1) achieving clarity aro
 
 If leadership has not clarified top-line objectives prior to working through the DMMM, then the process itself can be used to surface and rectify that. Likewise, if tactical Shiny Objects are masquerading as digital strategies, then that will also become apparent.
 
-The Digital Measurement and Marketing Model is the brainchild of Avinash Kaushik, Google's digital analytics evangelist. Kaushik's digital models are brilliant in their simplicity and designed to optimize impact.
+The Digital Measurement and Marketing Model was created by Google executive Avinash Kaushik, a Fortune 500 consultant and global thought leader in marketing. Kaushik's digital models are brilliant in their simplicity and designed to optimize impact.
 
 This model is "foundational for making sound, actionable recommendations based on data," explains Kaushik. "We’ll know what success and failure look like. We’ll know where to start and what to focus on."
 
@@ -26,6 +26,8 @@ With good reason he recommends that the DMMM be signed so that "all parties are 
 
 <div style="padding-left: 2.3em; background-color: whitesmoke"><p>The root cause of failure in most digital marketing campaigns is not the lack of creativity in the banner ad or TV spot or the sexiness of the website. It is not even (often) the people involved. It is quite simply the <strong>lack of structured thinking</strong> about what the real purpose of the campaign is and a lack of an objective set of measures with which to identify success or failure.</p><br/>
 <em>— Avinash Kaushik</em></div>
+
+Those who are familiar with the decades-old <a href="https://jester.nl/en/ogsm-model/" target="blank">OGSM strategic planning process</a> will see some similarities. (<a href="https://en.wikipedia.org/wiki/OGSM" target="blank">OGSM</a> stands for Objectives, Goals, Strategies, and measures.) 
 
 ## Quick View
 
