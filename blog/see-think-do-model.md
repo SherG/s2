@@ -94,9 +94,9 @@ Viewing the right-hand column you'll notice that there's a flow that resembles t
 
 ## See Your Brand From Your Prospect's Perspective
 
-This model is the brainchild of Avinash Kaushik, a Google executive and global thought leader in analytics. 
+The See-Think-Do-Care model is the brainchild of Avinash Kaushik, a Google executive, Fortune 500 consultant, and global thought leader in marketing and analytics. 
 
-The audience intent clusters were named See, Think, and Do to encourage you to view your planning through the lens of the customer's perspective. 
+The audience intent clusters were named See, Think, Do, and Care to encourage you to view your planning through the lens of the customer's perspective. 
 
 This is a subtle yet profound difference (not the only difference) with other models. 
 
