@@ -408,5 +408,5 @@ One of Avinash Kaushik's original posts on the See-Think-Do model. Also see his 
 
 <a href="https://www.thinkwithgoogle.com/intl/en-145/perspectives/global-articles/kpis-essential-framework/" target="blank">KPIs: An Essential Framework</a>
 
-In this Think With Google article, <a href="https://www.linkedin.com/in/innovationjohan/?originalSubdomain=se" target="blank">Johan Eriksson</a>, former head of specialists for Google Sweden, discusses KPIs using the See-Think-Do model. 
+In this Think With Google article, <a href="https://www.linkedin.com/in/innovationjohan/?originalSubdomain=se" target="blank">Johan Eriksson</a>, former head of specialists for Google Sweden, discusses KPIs in the context of the See-Think-Do model. 
 
