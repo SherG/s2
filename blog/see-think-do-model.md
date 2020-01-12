@@ -207,7 +207,7 @@ Over the years Facebook has throttled back the reach of "organic posts" made on 
 
 It's been previously estimated that only 2% to 6% of the people who've liked (become a "fan") of your Page will ever see your posts in their newsfeed. This downward trend has been going on for years. 
 
-This is why I advise businesses to de-emphasize organic posting which is largely a crapshoot and a waste of time. 
+This is why I advise businesses to de-emphasize organic posting. It's largely a crapshoot and a waste of time. 
 
 Instead, focus on Facebook ads. Using Facebook's ad platform, you can <a href="https://www.facebook.com/business/learn" target="blank">target your ads</a> specifically to your LAQA. You can do this by building an ad audience that matches the same interests, demographics, and geographic location as your LAQA. That presents a tremendous opportunity for growing your See cluster. 
 
