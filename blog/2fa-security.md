@@ -106,7 +106,7 @@ Before I share tips, here’s my security setup.
 
 ## Tips For the New U2F Key User
 
- hyperfido-mini-review.png
+
 The first key I purchased was the <a href="https://amzn.to/2DD7mEp" target="blank">HyperFIDO Mini</a>. This key is sufficient to cover most U2F needs. 
 
 To set it up, you simply navigate to an online service that offers U2F as 2FA (two-factor authentication). Go to your account security settings. Follow the instructions. 
@@ -204,7 +204,6 @@ You should get a backup key. It’ll make it easier to gain access to your accou
 
 Authenticator apps generate numeric tokens to use for 2FA (two-factor authorization). 
 
-how-authy-tokens-work.png
 They’re considered more secure than SMS (text message) tokens. 
 
 There are a number of authenticator apps you can use on your smartphone like Google Authenticator.
