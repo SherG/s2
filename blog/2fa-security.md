@@ -143,7 +143,6 @@ I found the process easy and straightforward. But if you’ve never used a termi
 Once you have this set up you’ll need to insert your security key whenever you log into your computer. A green light will flash, cueing you to lightly run your finger across the “Y” on the key. This generates an electrical charge that triggers authentication via a capacitive touch sensor.
 
 There are 2 “slots” (or containers) that you can program on the Yubikey. You’ll use Slot 2 to configure MacOS access. Once you’ve completed configuration, you will touch the gold circle on the key to access login to your laptop. Note: the Yubikey accepts 3 types of touch: short touch, long touch, and tap. Each triggers a different function.
-There are 2 “slots” (or containers) that you can program on the Yubikey. You’ll use Slot 2 to configure MacOS access. Once you’ve completed configuration, you will touch the gold circle on the key to access login to your laptop. Note: the Yubikey accepts 3 types of touch: short touch, long touch, and tap. Each triggers a different function.
 
 The <a href="https://amzn.to/2DzdNIj" target="blank">Yubikey 5</a> offers NFC (near field communication) capability, so you can hold it close to a mobile device in order to unlock accounts. 
 
@@ -251,4 +250,4 @@ While no solution offers perfect or guaranteed security, making yourself a hard 
 
 ### Recommended Reading
 
-Google publishes two-year study on use of FIDO U2F Security Keys	
+<a href="https://www.yubico.com/2016/02/use-of-fido-u2f-security-keys-focus-of-2-year-google-study/" target="blank">Google publishes two-year study on use of FIDO U2F Security Keys</a>
