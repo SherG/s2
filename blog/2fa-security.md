@@ -232,15 +232,15 @@ Some of the best known password managers are:
 Bug bounty programs invite ‘white-hat’ hackers to attempt to breach the assets of participating corporations in exchange for negotiated cash rewards. This improves security and fosters transparency.
 
 ## Quick Tips
-Physical keys don’t work with all browsers: They currently have support in Chrome, Opera, and Mozilla.
+* Physical keys don’t work with all browsers: They currently have support in Chrome, Opera, and Mozilla.
 
-Most banks and financial institutions appear to be behind the times: they typically just use 2FA via SMS. But some 2FA is better than none.
+* Most banks and financial institutions appear to be behind the times: they typically just use 2FA via SMS. But some 2FA is better than none.
 
-The physical key is about protecting your online accounts from remote attacks. So, if you want, you can leave your key in your USB slot. 
+* The physical key is about protecting your online accounts from remote attacks. So, if you want, you can leave your key in your USB slot. 
 
-If you previously saved your passwords in your browser, be sure to pick a password manager that allows for bulk import. Also realize that after you start using your password manager, you’ll want to look up the instructions for turning off your browser’s auto sign-in. If you don’t you’re likely to run into situations where both services attempt to fill in your password. 
+* If you previously saved your passwords in your browser, be sure to pick a password manager that allows for bulk import. Also realize that after you start using your password manager, you’ll want to look up the instructions for turning off your browser’s auto sign-in. If you don’t you’re likely to run into situations where both services attempt to fill in your password. 
 
-Beef up your passwords: When you set up your password manager, take the opportunity to beef up your passwords. According to security experts a 6-character password can be cracked in less than a second.
+* Beef up your passwords: When you set up your password manager, take the opportunity to beef up your passwords. According to security experts a 6-character password can be cracked in less than a second.
 
 ## Summary
 
