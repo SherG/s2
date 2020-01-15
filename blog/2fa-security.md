@@ -61,8 +61,6 @@ During this process your U2F device generates a set of cryptographic keys for th
 Once you set up your key with a participating online service, no none can access your account without your physical key. This provides powerful protection against phishing among other remote attacks.
 
 
-This promotional video from Yubico explains how their keys work.
-
 SaaS providers that allow you to use physical U2F keys include: 
 
 * Google
