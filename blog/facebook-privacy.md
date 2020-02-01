@@ -14,7 +14,7 @@ This is what my idea of regulation would entail: every user of every social netw
 </p>
 <p>The core of this idea is intriguing: it insists on full transparency and puts the consumer in complete control of Facebook&rsquo;s use of their personal data</p>
 <h2>Facebook's Trade: Their Service For Your Data</h2>
-<p>However, Facebook (like Google) has never been in the business of giving away digital services for free: it&rsquo;s been involved in a trade (albeit a <a href="https://tech.slashdot.org/story/18/12/18/1952236/turning-off-facebook-location-tracking-doesnt-stop-it-from-tracking-your-location" target="_blank" rel="noopener">misleading</a> one): you get free services, and they get usage of your data.</p>
+<p>However, Facebook has never been in the business of giving away digital services for free: it&rsquo;s been involved in a trade (albeit a <a href="https://tech.slashdot.org/story/18/12/18/1952236/turning-off-facebook-location-tracking-doesnt-stop-it-from-tracking-your-location" target="_blank" rel="noopener">misleading</a> one): you get free services, and they get usage of your data.</p>
 <p>Forcing Facebook to provide its services gratis to users, who will then dictate whether or not the company gets anything in return, isn&rsquo;t workable.</p>
 <h2>Opt Out For a Fee</h2>
 <p>Why not allow individuals, who don&rsquo;t want to trade any of their data (the price of &ldquo;free&rdquo;), to pay a membership fee to join Facebook. This is an opt out.</p>
