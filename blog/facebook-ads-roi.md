@@ -80,7 +80,7 @@ Let's assume, for the sake of this article, that he continues to make 2 sales a 
 
 Since each client pays $500/month, and he's made 1 sale, he's $6,000 towards his $100k goal. That means he needs only 16 more sales to add $100k to his revenue. Sixteen divided by 2 (sales per month) = 8 months to his target. 
 
-Now what if he added to his ad spend, to double his sales amount? He could potentially hit his target in 4 measly months. Since he has near-perfect retention rates, once he hit his revenue goal, Facebook Ads would be an occasional, not recurring cost. 
+Now what if he added to his ad spend, to double his sales amount? He could potentially hit his revenue target in 4 measly months. Since he has near-perfect retention rates, once he hit his revenue goal, Facebook Ads would be an occasional, not recurring cost. 
 
 The calculation above is basic. The client would need to account for advertising and Facebook marketer costs when calculating ROI and how fast he'd attain his goals. He could then determine whether he wanted to speed the process up. 
 
