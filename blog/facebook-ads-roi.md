@@ -74,8 +74,6 @@ First, get some perspective. Find out what the average lead conversion rate is f
 
 ## You're Closer Than You Think
 
-Now let's pull the lens back further. Should the business owner feel frustrated because of all the follow-up calls he had to make or emails he had to send to those 16 people? 
-
 To really get a handle on ROI we need to have our goal in mind. In this case, the owner would be thrilled to add $100,000 more to his annual revenue. So let's set that as the goal. 
 
 Let's assume, for the sake of this article, that he continues to make 2 sales a month via his Facebook Lead Ads campaigns. How long will it take him to add $100k of revenue to his business? 
@@ -86,6 +84,6 @@ Now what if he added to his ad spend, to double his sales amount? He could poten
 
 The calculation above is basic. The client would need to account for advertising and Facebook marketer costs when calculating ROI and how fast he'd attain his goals. He could then determine whether he wanted to speed the process up. 
 
-But it shows how running a few numbers can open our eyes to how close we are to acheiving our business goals. 
+Running a few numbers can open our eyes to how close we are to acheiving our business goals. 
 
 
