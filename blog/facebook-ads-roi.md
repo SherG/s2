@@ -16,6 +16,8 @@ Sometimes with Facebook Ads, as in life, you're much closer to success than you 
 
 First, let's set the scene.
 
+![facebook ads roi](../static/facebook-ads-roi.svg)
+
 ## Facebook Lead Ads
 
 A former client received a pitch from a Facebook Ads marketer. The marketer offered to run lead ads for him for a month for free. "Free" means you pay nothing for the advertiser's work; you do pay for the ads themselves. The client asked me for my take on the pitch. 
