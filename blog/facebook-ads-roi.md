@@ -16,9 +16,11 @@ First, let's set the scene.
 
 ## Facebook Lead Ads
 
-A former client received a pitch from a Facebook Ads marketer. They offered to run lead ads for him for a month for free. "Free" means you pay nothing for the advertiser's work, you do pay for the ads themselves. The client asked me for my take on the pitch. 
+A former client received a pitch from a Facebook Ads marketer. The marketer offered to run lead ads for him for a month for free. "Free" means you pay nothing for the advertiser's work, you do pay for the ads themselves. The client asked me for my take on the pitch. 
 
-My response was that while I don't provide a service that vets individual marketers, this pitch is common and accepted in the industry. The idea is that the marketer wants to prove that they can produce leads for you within that time period. They're confident that once you see the leads coming in, you'll sign up for their service. 
+My response was that while I don't provide a service that vets individual marketers, this pitch is common and accepted in the industry. 
+
+The idea is that the marketer wants to prove that they can produce leads for you within that time period. They're confident that once you see the leads coming in, you'll sign up for their service. 
 
 Readers please note: leads are not the same as sales, right? The marketer isn't going to deliver sales. They are going to deliver leads. Then it's your job to handle the sales process. 
 
