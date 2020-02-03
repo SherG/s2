@@ -6,15 +6,15 @@ summary: Sometimes with Facebook Ads, as in life, you're much closer to success 
 tags: ['facebook']
 ---
 
-Wondering how to determine whether Facebook Ads are worth the cost? In this article I focus on service-based businesses running Facebook lead ads. 
+Wondering how to determine whether Facebook Ads are worth the cost? Let's take a look at the case of a service-based business running lead ads. 
 
 While you may be concerned about wasting money or getting disappointing returns, it's also possible to entirely miss the success of your ad campaigns. 
 
 You can avoid this pitfall by understanding a metric called "Customer Lifetime Value" and by setting time-based revenue targets. 
 
-Sometimes with Facebook Ads, as in life, you're much closer to success than you realize. 
+Sometimes, with Facebook Ads, as in life, you're much closer to success than you realize. 
 
-First, let's set the scene.
+First, let's set the scene. 
 
 ![facebook ads roi](../static/facebook-ads-roi.svg)
 
@@ -52,7 +52,7 @@ Let's look at the results through 2 different lenses: one of disappointment and 
 
 ### The Disappointment Lens 
 
-The business owner had to follow up with leads via email and phone. There was phone tag, reminder emails, and people were difficult to get ahold of. A minority actually made an appointment for the free consultation for his service. One was a no-show. 
+The business owner -- a solopreneur -- had to follow up with leads via email and phone. There was phone tag, reminder emails that needed to be sent, and people were difficult to get ahold of. A minority actually made an appointment for the free consultation for his service. One was a no-show. 
 
 One way to look at this is to focus on the frustration (and number) of boring follow-up tasks. Whether one chooses the disappointment lens has a lot to do with one's expectations. 
 
