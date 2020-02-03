@@ -8,7 +8,9 @@ tags: ['Facebook']
 
 Wondering how to determine whether Facebook Ads are worth the cost? In this article I focus on service-based businesses running Facebook lead ads. 
 
-While you may be concerned about wasting money or getting disappointing returns, it's also possible to entirely miss the success of your ad campaigns. You can avoid this pitfall by understanding a metric called "Customer Lifetime Value" and by setting time-based revenue targets. Sometimes with Facebook Ads, as in life, you're much closer to success than you realize. 
+While you may be concerned about wasting money or getting disappointing returns, it's also possible to entirely miss the success of your ad campaigns. You can avoid this pitfall by understanding a metric called "Customer Lifetime Value" and by setting time-based revenue targets. 
+
+Sometimes with Facebook Ads, as in life, you're much closer to success than you realize. 
 
 First, let's set the scene.
 
