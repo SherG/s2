@@ -86,4 +86,11 @@ The calculation above is basic. The client would need to account for advertising
 
 Running a few numbers can open our eyes to how close we are to acheiving our business goals. 
 
+## Summary
+
+When you assess the results of your own ad campaigns, I hope you'll put your "data glasses" on first. 
+
+Doing so will prevent you from mistaking success for failure.
+
+
 
