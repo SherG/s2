@@ -34,7 +34,7 @@ Note: some successful Facebook marketers will decline a client if the client has
 
 I also informed the client that Facebook marketers commonly charge fees based on the average customer lifetime value (CLV) of your clients. 
 
-Average Customer Lifetime Value (CLV) is an important metric to wrap your head around because it's going to help you assess: 
+Average Customer Lifetime Value (CLV) is an important metric to wrap your head around. In this scenario, it's going to help you assess: 
 * whether your Facebook Lead ads are worth the money, and
 * whether you're getting a good deal from the marketer. 
 
