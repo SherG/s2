@@ -54,7 +54,7 @@ Let's look at the results through 2 different lenses: one of disappointment and 
 
 The business owner had to follow up with leads via email and phone. There was phone tag, reminder emails, and people were difficult to get ahold of. A minority actually made an appointment for the free consultation for his service. One was a no-show. 
 
-One way to look at this is to focus on the frustration of boring tasks of playing phone tag etc. Whether one chooses the disappointment lens has a lot to do with one's expectations. 
+One way to look at this is to focus on the frustration of boring follow-up tasks. Whether one chooses the disappointment lens has a lot to do with one's expectations. 
 
 If you start a business and don't realize the huge amount of work that needs to be done to generate leads and sales, then you may think this feels "off" and things shouldn't be this difficult. 
 
