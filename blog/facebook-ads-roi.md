@@ -92,15 +92,12 @@ Running a few numbers can open our eyes to how close we are to acheiving our bus
 
 ## A Few Additional Considerations
 
-The purpose of this article was to underscore the importance of having a goal for your campaigns before they launch and of having useful metrics by which to judge the outcomes. 
+The purpose of this article was to underscore the importance of having a goal for your campaigns before they launch and of having useful metrics by which to judge the outcomes. But I want to leave you with a few additional considerations. 
 
-But I want to mention an obvious point you should keep in mind when hiring a Facebook Ads professional. Anything can be done well or poorly and that includes Facebook campaigns. If you're not getting results you can choose another marketer. 
-
-Do give your marketer adequate time. The campaign is occuring in a digital ecosystem of thousands of individuals responding to your ad's copy, creative, placement, format, landing page, and offer. The way the ad audience was configured may also need to be adjusted. 
-
-When it comes to the free trial, opt for 4 weeks, not 2 weeks. The marketer will need to respond to results and calibrate the campaign as it goes along. 
-
-And don't expect to see the totality of what's possible in the first 2-4 weeks. 
+* Anything can be done well or poorly and that includes Facebook campaigns. If you're not getting results you can choose another marketer. 
+* Do give your marketer adequate time. The campaign is occuring in a live digital ecosystem of thousands of individuals responding to your ad's copy, creative, placement, format, landing page, and offer. Any of these factors, in addition to the ad targeting, may need to be adjusted. 
+* When it comes to the free trial, opt for 4 weeks, not 2 weeks. The marketer will need to respond to results and calibrate the campaign as it goes along. And don't expect to see the totality of what's possible in the first 2-4 weeks. 
+* Reserach shows that if you don't respond to your prospect immediately, you're increasing the likelihood that you won't make the sale. 
 
 ## Summary
 
