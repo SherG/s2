@@ -54,7 +54,7 @@ Let's look at the results through 2 different lenses: one of disappointment and 
 
 ### The Disappointment Lens 
 
-The business owner — a solopreneur — had to follow up with leads via email and phone. There was phone tag, reminder emails that needed to be sent, and people were difficult to get ahold of. A minority actually made an appointment for the free consultation for his service. One was a no-show. 
+The business owner — a solopreneur — had to follow up with leads via email and phone. There was phone tag, he had to send reminder emails, and people were difficult to get ahold of. A minority actually made an appointment for the free consultation for his service. One was a no-show. 
 
 One way to look at this is to focus on the frustration (and number) of boring follow-up tasks. Whether one chooses the disappointment lens has a lot to do with one's expectations. 
 
