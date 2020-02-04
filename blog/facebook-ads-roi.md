@@ -76,13 +76,15 @@ First, get some perspective. Find out what the average lead conversion rate is f
 
 ## You're Closer Than You Think
 
-To really get a handle on ROI we need to have our goal in mind. In this case, the owner would be thrilled to add $100,000 more to his annual revenue. So let's set that as the goal. 
+To really get a handle on ROI we need to have a goal in mind. We need to assess the results in the context of this goal. 
 
-Let's assume, for the sake of this article, that he continues to make 2 sales a month via his Facebook Lead Ads campaigns. How long will it take him to add $100k of revenue to his business? 
+Let's assume the owner's goal is to add $100,000 to his annual revenue. 
+
+For the sake of this article let's assume that he continues to make 2 sales a month via his Facebook Lead Ads campaigns. How long will it take him to add $100k of revenue to his business? 
 
 Since each client pays $500/month, and he's made 1 sale, he's $6,000 towards his $100k goal. That means he needs only 16 more sales to add $100k to his revenue. Sixteen divided by 2 (sales per month) = 8 months to his target. 
 
-Now what if he added to his ad spend, to double his sales amount? He could potentially hit his revenue target in 4 measly months. Since he has near-perfect retention rates, once he hit his revenue goal, Facebook Ads would be an occasional, not recurring cost. 
+Now what if he increased his ad spend in order to double his sales amount? He could potentially hit his revenue target in 4 measly months. Since he has near-perfect retention rates, once he hit his revenue goal, Facebook Ads would be an occasional, not recurring cost. 
 
 The calculation above is basic. The client would need to account for advertising and Facebook marketer costs when calculating ROI and how fast he'd attain his goals. He could then determine whether he wanted to speed the process up. 
 
