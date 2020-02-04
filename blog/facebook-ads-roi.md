@@ -28,6 +28,8 @@ The idea is that the marketer wants to prove that they can produce leads for you
 
 Readers please note: leads are not the same as sales, right? The marketer isn't going to deliver sales. Once the leads come in, it's your job to handle the sales process. 
 
+> You may be closer to success than you realize.
+
 Note: some successful Facebook marketers will decline a client if the client hasn't been experiencing regular growth. That's because some believe that Facebook lead ads work best for scaling up growth in a healthy business, not sparking growth from zero. The thinking is that zero growth could indicate a problem with the core business model, something that Facebook Ads can't fix. 
 
 ## What's Your Average Customer Lifetime Value? 
