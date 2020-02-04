@@ -90,6 +90,16 @@ The calculation above is basic. The client would need to account for advertising
 
 Running a few numbers can open our eyes to how close we are to acheiving our business goals. 
 
+## A Few Additional Considerations
+
+The purpose of this article was to underscore the importance of having a goal for your campaigns before they launch and of having useful metrics by which to judge the outcomes. 
+
+But I want to mention an obvious point you should keep in mind when hiring a Facebook Ads professional. Anything can be done well or poorly and that includes Facebook campaigns. If you're not getting results you can choose another marketer. 
+
+Do give your marketer adequate time. The campaign is occuring in a digital ecosystem of thousands of individuals responding to your ad's copy, creative, placement, format, landing page, and offer. 
+
+When it comes to the free trial, opt for 4 weeks, not 2 weeks. The marketer will need to respond to results and calibrate the campaign as it goes along. 
+
 ## Summary
 
 When you assess the results of your own ad campaigns, I hope you'll put your "data glasses" on first. 
