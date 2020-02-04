@@ -97,7 +97,7 @@ The purpose of this article was to underscore the importance of having a goal fo
 * Anything can be done well or poorly and that includes Facebook campaigns. If you're not getting results you can choose another marketer. 
 * Do give your marketer adequate time. The campaign is occuring in a live digital ecosystem of thousands of individuals responding to your ad's copy, creative, placement, format, landing page, and offer. Any of these factors, in addition to the ad targeting, may need to be adjusted. 
 * When it comes to the free trial, opt for 4 weeks, not 2 weeks. The marketer will need to respond to results and calibrate the campaign as it goes along. And don't expect to see the totality of what's possible in the first 2-4 weeks. 
-* Reserach shows that if you don't respond to your prospect immediately, you're increasing the likelihood that you won't make the sale. 
+* If you're not responding to your inbound leads immediately, you're going to lose sales. 
 
 ## Summary
 
