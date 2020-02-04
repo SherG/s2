@@ -80,7 +80,7 @@ To really get a handle on ROI we need to have a goal in mind. We need to assess 
 
 Let's assume the owner's goal is to add $100,000 to his annual revenue. 
 
-For the sake of this article let's assume that he continues to make 2 sales a month via his Facebook Lead Ads campaigns. How long will it take him to add $100k of revenue to his business? 
+If he continues to make 2 sales a month via his Facebook Lead Ads campaigns, how long will it take him to add $100k of revenue to his business? 
 
 Since each client pays $500/month, and he's made 1 sale, he's $6,000 towards his $100k goal. That means he needs only 16 more sales to add $100k to his revenue. Sixteen divided by 2 (sales per month) = 8 months to his target. 
 
