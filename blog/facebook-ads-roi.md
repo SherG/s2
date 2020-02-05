@@ -22,7 +22,7 @@ First, let's set the scene.
 
 A former client received a pitch from a Facebook Ads marketer. The marketer offered to run lead ads for him for a month for free. "Free" means you pay nothing for the advertiser's work; you do pay for the ads themselves. The client asked me for my take on the pitch. 
 
-My response was that while I don't provide a service that vets individual marketers, this pitch is common and accepted in the industry. 
+I explained that while I don't provide a service that vets individual marketers, this pitch is common and accepted in the industry. 
 
 The idea is that the marketer wants to prove that they can produce leads for you within that time period. They're confident that once you see the leads coming in, you'll sign up for their service. 
 
@@ -30,7 +30,7 @@ Readers please note: leads are not the same as sales, right? The marketer isn't 
 
 > You may be closer to success than you realize.
 
-Note: some successful Facebook marketers will decline a client if the client hasn't been experiencing regular growth. That's because some believe that Facebook lead ads work best for scaling up growth in a healthy business, not for sparking growth from zero. (The thinking is that zero growth could indicate a problem with the core business model, something that Facebook Ads can't fix.)
+I also explained that some successful Facebook marketers will decline a client if the client hasn't been experiencing regular growth. These marketers contend that Facebook lead ads work best for scaling up growth in a healthy business, not for sparking growth from zero. (The thinking is that zero growth could indicate a problem with the core business model, something that Facebook Lead Ads can't fix.)
 
 ## What's Your Average Customer Lifetime Value? 
 
@@ -84,7 +84,7 @@ If he continues to make 2 sales a month via his Facebook Lead Ads campaigns, how
 
 Since each client pays $500/month, and he's made 1 sale, he's $6,000 towards his $100k goal. That means he needs only 16 more sales to add $100k to his revenue. Sixteen divided by 2 (sales per month) = 8 months to his target. 
 
-Now what if he increased his ad spend in order to double his sales amount? He could potentially hit his revenue target in 4 measly months. Since he has near-perfect retention rates, once he hit his revenue goal, Facebook Ads would be an occasional, not recurring cost. 
+What if he increased his ad spend in order to double his sales amount? He could potentially hit his revenue target in 4 measly months. Since he has near-perfect retention rates, once he hits his revenue goal, Facebook Ads would be an occasional, not recurring cost. 
 
 The calculation above is basic. The client would need to account for advertising and Facebook marketer costs when calculating ROI and how fast he'd attain his goals. He could then determine whether he wanted to speed the process up. 
 
