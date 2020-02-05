@@ -62,6 +62,7 @@ If you don't realize the intense amount of work that needs to be done to generat
 
 But if you know this uphill climb is normal, then you'll gladly put your shoulder to the wheel, expecting that results will come, but your goals won't be achieved in 2 weeks. 
 
+
 ### The Data Lens
 
 Now let's dial in the data from your CLV. This is where you get true clarity. 
