@@ -6,7 +6,7 @@ summary: Sometimes with Facebook Ads, as in life, you're much closer to success 
 tags: ['facebook']
 ---
 
-Wondering how to determine whether Facebook Ads are worth the cost? Let's take the case of a service-based business running lead ads. 
+Wondering how to determine whether Facebook Ads are worth the cost? Let's take the case of a service-based business running lead ads for the first time. 
 
 While you may be concerned about wasting money or getting disappointing returns, it's also possible to entirely miss the success of your ad campaigns. 
 
