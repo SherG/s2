@@ -68,9 +68,9 @@ Viewing the right-hand column you'll notice that there's a flow that resembles t
 
 <details>
  <summary>What's a "channel"?</summary><br/>
-    <p>A channel is any mode of communication, offline or online. Channels include print, digital, radio, TV, billboards. Digital channels include your website, social media, email, third-party marketplaces like Amazon, mobile apps, app stores, business directories, Google My Business pages, <a href="https://audiotonic.us" target="blank">Alexa skills</a>, text messaging, SEO/search engine results, and advertising.</p>
+    <p>A channel is any mode of communication, offline or online. Channels include print, digital, an in-person modes of communication. They traditional/mass market channels like radio, TV, and billboards. Digital channels include your website, social media, email, third-party marketplaces like Amazon, mobile apps, app stores, business directories, Google My Business pages, <a href="https://audiotonic.us" target="blank">Alexa skills</a>, text messaging, SEO/search engine results, and advertising.</p>
  <p>Advertising channels include display ads, affiliate marketing, and PPC (pay-per-click) ads for search engines or social media.</p>
- <p>Sales or marketing phone calls with prospects or donors could also be considered amatchannel.</p>
+ <p>Sales or marketing phone calls with prospects or donors could also be considered a channel.</p>
  <p>In this article, we'll be focusing on commonly used digital channels.</p>
  </details><br/>
 
