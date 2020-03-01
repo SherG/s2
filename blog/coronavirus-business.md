@@ -83,8 +83,9 @@ Come Monday, if we continue to have additional significant declines in the marke
 
 ### Related Reading on the Coronavirus (COVID-19)
 
-<a href="https://necsi.edu/corona-virus-pandemic" target="blank">Stopping the Coronavirus Pandemic</a>
-This resource page from the New England Complex Systems Institute, includes a <a href="https://necsi.edu/systemic-risk-of-pandemic-via-novel-pathogens-coronavirus-a-note" target="blank">position paper</a> and updates. Contributors include <a href='https://engineering.nyu.edu/faculty/nassim-nicholas-taleb" target="blank">Nassim Nicholas Taleb</a> and <a href="https://necsi.edu/yaneer-bar-yam" target="blank">Yaneer Bar-Yam</a>.
+#### <a href="https://necsi.edu/corona-virus-pandemic" target="blank">Stopping the Coronavirus Pandemic</a>
+
+This resource page from the New England Complex Systems Institute, includes a <a href="https://necsi.edu/systemic-risk-of-pandemic-via-novel-pathogens-coronavirus-a-note" target="blank">position paper</a> and updates. Contributors include <a href="https://engineering.nyu.edu/faculty/nassim-nicholas-taleb" target="blank">Nassim Nicholas Taleb</a> and <a href="https://necsi.edu/yaneer-bar-yam" target="blank">Yaneer Bar-Yam</a>.
 
 
 
