@@ -82,19 +82,19 @@ If your business gets a bump in orders due to higher demand, invoice factoring a
 
 ### Look for E-Commerce Opportunities
 
-If you've been providing in-person seminars and workshops, create an immediate plan to deliver these online. If your in-person seminars are part of a sales funnel, shift the entirety of your funnel online and use a free webinar instead to attract customers. 
+If you've been providing in-person seminars and workshops, create an immediate plan to deliver these online. 
+
+If your in-person seminars are part of a sales funnel, shift the entirety of your funnel online and use a free webinar instead to attract customers. 
 
 Consider using tools like <a href="https://www.clickfunnels.com/" target="blank">ClickFunnels</a> and <a href="https://home.webinarjam.com/index" target="blank">Webinar Jam</a>.
 
-If your business provides a service, shift from in-person consultations to video or phone consultations. 
+If your business provides in-person consultations, make video consultations an option. 
 
 ### Co-Working and Commercial Real Estate
 
-Co-working will be a loser for at least the next several months. Once the virus emergency subsides, some business owners may decide that they'd prefer to have their employees continue to work remotely perhaps in order to save on office expenses and/or to recover from any revenue impact incurred from the virus.
+Co-working will be a loser for at least the next several months. Once the virus emergency subsides, some business owners may decide that they'd prefer to have their employees continue to work remotely in order to save on office expenses and/or to recover from any revenue impact incurred from the virus.
 
-Come Monday, if we continue to have additional significant declines in the markets, we may be in for a deep recession and possibly deflation. That can significantly impact commercial real estate rentals and sales. 
-
-The potential knock-on effects are numerous. 
+Come Monday, if we continue to have additional significant declines in the markets, we may be in for a deep recession and possibly deflation. That can significantly impact commercial real estate rentals and sales. The potential downstream effects are numerous. 
 
 
 ### Related Reading on the Coronavirus (COVID-19)
