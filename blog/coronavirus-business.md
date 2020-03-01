@@ -27,7 +27,7 @@ So what can you do to mitigate the potential damage to your business? Here's a s
 
 Remote work can cut down on the risk of infections spreading. In metropolitan areas, many workers commute via public transportation, which would heighten their risk. 
 
-An asymptomatic infected employee in the workplace for a few weeks can result in multiple employees having to take time off, denting your productivity. 
+Consider: an asymptomatic infected employee would remain functional for weeks, while spreading the virus. This can set off a chain reaction of additional infections, diminishing your workforce, denting productivity, and hitting revenue. 
 
 Also consider that if schools in your area close, some of your employees will need to be home anyway. 
 
