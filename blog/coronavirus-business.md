@@ -49,11 +49,13 @@ Consider telling your employees about <a href="https://krisp.ai/" target="blank"
 
 ### Prepare For Supply Chain Disruptions and Diminished Demand
 
-Business owners need to consider the potential knock-on effects of the virus. You'll be making decisions in a complex environment that presents a high level of uncertainty and requires rapid adaptation. Every day medical researchers are discovering new facts about the virus.Many businesses lack full visibility into their supply chain vulnerabilites, which are in flux.
+Business owners need to consider the potential knock-on effects of the virus. You'll be making decisions in a complex environment that presents a high level of uncertainty and requires rapid adaptation. 
 
 The coronavirus may cause <a href="https://www.wsj.com/articles/commentary-supply-chain-risks-from-the-coronavirus-demand-immediate-action-11582054704" target="blank">supply chain disruptions</a> unlike anything we have seen in the past 70 years," says MIT's Yossi Sheffi, one of the world's foremost experts on supply chain dynamics. 
 
 He points out that previous crises like the SARS epidemic and the Fukushima meltdown triggered supply chain disruptions but these events did not co-occur with reduced demand.
+
+Read <a href='https://www.wsj.com/articles/commentary-supply-chain-risks-from-the-coronavirus-demand-immediate-action-11582054704" target="blank">his recommendations</a>. 
 
 #### Protect Yourself From Insolvencies: Get Set Up With Invoice Factoring 
 
@@ -100,5 +102,9 @@ The potential knock-on effects are numerous.
 #### <a href="https://necsi.edu/corona-virus-pandemic" target="blank">Stopping the Coronavirus Pandemic</a>
 
 This resource page from the New England Complex Systems Institute includes a <a href="https://necsi.edu/systemic-risk-of-pandemic-via-novel-pathogens-coronavirus-a-note" target="blank">position paper</a> and updates. Contributors include <a href="https://engineering.nyu.edu/faculty/nassim-nicholas-taleb" target="blank">Nassim Nicholas Taleb</a> and <a href="https://necsi.edu/yaneer-bar-yam" target="blank">Yaneer Bar-Yam</a>.
+
+#### Virus-Related Supply Chain Disruptions to Get Much Worse, MIT's Sheffi Warns 
+
+For a quick take, watch this Bloomberg interview with Yossi Sheffi, director of the Massachusetts Institute of Technology’s Center for Transportation and Logistics.
 
 
