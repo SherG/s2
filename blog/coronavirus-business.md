@@ -45,13 +45,23 @@ Slack can be a useful tool for communicating short, urgent messages with staff, 
 
 Consider telling your employees about <a href="https://krisp.ai/" target="blank">Krisp.ai</a>, an app to remove background noise from calls. That's useful if they'll have background noise in their home or if they plan on working at another location, like a cafe, every so often.
 
-### Protect Yourself From Insolvencies: Get Set Up With Invoice Factoring 
+### Prepare For Supply Chain Disruptions and Diminished Demand
+
+The potential knock-on effects of the virus are numerous. Your decison-making is going to take place in a complex environment. Medical experts are uncovering new facts about the virus daily. Many businesses lack full visibility into their supply chain vulnerabilites, which are in flux.
+
+The coronavirus may cause <a href="https://www.wsj.com/articles/commentary-supply-chain-risks-from-the-coronavirus-demand-immediate-action-11582054704" target="blank">supply chain disruptions</a> unlike anything we have seen in the past 70 years," says MIT's Yossi Sheffi, one of the world's foremost experts on supply chain dynamics. 
+
+He points out that previous crises like the SARS epidemic and the Fukushima meltdown triggered supply chain disruptions but these events did not co-occur with reduced demand.
+
+#### Protect Yourself From Insolvencies: Get Set Up With Invoice Factoring 
+
+Before supply chain disruptions mount, start managing for cash flow rather than for profit. 
 
 If you sell B2B or B2G (business to government) on 30-, 60-, or 90-day terms, you can sell your invoices for immediate cash. This process is called <a href="https://www.spearfishcap.com/services/invoice-factoring/" target="blank">invoice factoring</a> and it doesn't add any debt to your business. 
 
 My other business, <a href="https://www.spearfishcap.com/" target="blank">Spearfish</a>, provides invoice factoring services for businesses earning a minimum of roughly $20k in average monthly revenue. 
 
-#### Non-Recourse Factoring
+##### Non-Recourse Factoring
 
 We only provide non-recourse factoring: this means that credit risk insurance is added to your factoring account so that if your customer/vendor goes bankrupt within the factoring period you are not on the hook for the cash that was advanced to you. 
 
@@ -68,9 +78,7 @@ If your business gets a bump in orders due to higher demand, invoice factoring a
 
 ### Look for E-Commerce Opportunities
 
-There are plenty of e-commerce opportunities that you can discover. 
-
-For example, if you've been providing in-person seminars and workshops, create an immediate plan to deliver these online. If your in-person seminars are part of a sales funnel, shift the entirety of your funnel online and use a free webinar instead to attract customers. 
+If you've been providing in-person seminars and workshops, create an immediate plan to deliver these online. If your in-person seminars are part of a sales funnel, shift the entirety of your funnel online and use a free webinar instead to attract customers. 
 
 Consider using tools like <a href="https://www.clickfunnels.com/" target="blank">ClickFunnels</a> and <a href="https://home.webinarjam.com/index" target="blank">Webinar Jam</a>.
 
@@ -78,9 +86,11 @@ If your business provides a service, shift from in-person consultations to video
 
 ### Co-Working and Commercial Real Estate
 
-Co-working will be a loser for at least the next several months. Once the virus emergency subsides, some business owners may decide that they'd prefer to have their employees continue to work remotely. 
+Co-working will be a loser for at least the next several months. Once the virus emergency subsides, some business owners may decide that they'd prefer to have their employees continue to work remotely perhaps in order to save on office expenses and/or to recover from any revenue impact incurred from the virus.
 
 Come Monday, if we continue to have additional significant declines in the markets, we may be in for a deep recession and possibly deflation. That can significantly impact commercial real estate rentals and sales. 
+
+The potential knock-on effects are numerous. 
 
 
 ### Related Reading on the Coronavirus (COVID-19)
