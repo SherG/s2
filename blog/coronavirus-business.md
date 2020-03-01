@@ -12,7 +12,7 @@ Yesterday <a href="https://bedford.io/team/trevor-bedford/" target="blank">Trevo
 Here are some of his takeaways: 
 
 <ul><li>"This strongly suggests that there has been cryptic transmission in Washington State for the past 6 weeks."</li>
-<li>I believe we're facing an already substantial outbreak in Washington State that was not detected until now due to narrow case definition requiring direct travel to China." </li>
+<li>"I believe we're facing an already substantial outbreak in Washington State that was not detected until now due to narrow case definition requiring direct travel to China." </li>
 <li>"Our best current expectation is a few hundred current infections."</li></ul>
 
 This  multiplicative effect isn't surprising given the incubation period and the fact that some carriers can be asymptomatic. A variety of infectious disease experts have indicated we can expect a rapid and significant uptick in cases. 
