@@ -1,8 +1,8 @@
 ---
 title: Hardening Your Business Against the Coronavirus Impact
-path: /coronavirus-remote-work
+path: /coronavirus-business
 date: 2020-02-02
-summary: Now is the time implement remote work for your employees.
+summary: Take action now to mitigate the impact of the coronavirus on your business.
 tags: ['coronavirus']
 ---
 
