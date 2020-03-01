@@ -9,6 +9,8 @@ tags: ['coronavirus']
 
 Yesterday <a href="https://bedford.io/team/trevor-bedford/" target="blank">Trevor Bedford</a>, a medical research scientist, <a href="https://twitter.com/trvrb/status/1233970271318503426" target="blank">published on Twitter</a> some new findings on the Washington coronavirus (Covid-19) cases. 
 
+His takeaways included there's been 
+
 Here are some of his takeaways: 
 
 <ul><li>"This strongly suggests that there has been cryptic transmission in Washington State for the past 6 weeks."</li>
@@ -47,7 +49,7 @@ Consider telling your employees about <a href="https://krisp.ai/" target="blank"
 
 ### Prepare For Supply Chain Disruptions and Diminished Demand
 
-The potential knock-on effects of the virus are numerous. Your decison-making is going to take place in a complex environment. Medical experts are uncovering new facts about the virus daily. Many businesses lack full visibility into their supply chain vulnerabilites, which are in flux.
+Business owners need to consider the potential knock-on effects of the virus. You'll be making decisions in a complex environment that presents a high level of uncertainty and requires rapid adaptation. Every day medical researchers are discovering new facts about the virus.Many businesses lack full visibility into their supply chain vulnerabilites, which are in flux.
 
 The coronavirus may cause <a href="https://www.wsj.com/articles/commentary-supply-chain-risks-from-the-coronavirus-demand-immediate-action-11582054704" target="blank">supply chain disruptions</a> unlike anything we have seen in the past 70 years," says MIT's Yossi Sheffi, one of the world's foremost experts on supply chain dynamics. 
 
