@@ -51,7 +51,7 @@ Consider telling your employees about <a href="https://krisp.ai/" target="blank"
 
 Business owners need to consider the potential knock-on effects of the virus. You'll be making decisions in a complex environment that presents a high level of uncertainty and requires rapid adaptation. 
 
-The coronavirus may cause <a href="https://www.wsj.com/articles/commentary-supply-chain-risks-from-the-coronavirus-demand-immediate-action-11582054704" target="blank">supply chain disruptions</a> unlike anything we have seen in the past 70 years," says MIT's Yossi Sheffi, one of the world's foremost experts on supply chain dynamics. 
+The coronavirus may cause <a href="https://www.wsj.com/articles/commentary-supply-chain-risks-from-the-coronavirus-demand-immediate-action-11582054704" target="blank">supply chain disruptions</a> "unlike anything we have seen in the past 70 years," says MIT's Yossi Sheffi, one of the world's foremost experts on logistics. 
 
 He points out that previous crises like the SARS epidemic and the Fukushima meltdown triggered supply chain disruptions but these events did not co-occur with reduced demand.
 
