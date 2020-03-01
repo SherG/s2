@@ -55,7 +55,7 @@ The coronavirus may cause <a href="https://www.wsj.com/articles/commentary-suppl
 
 He points out that previous crises like the SARS epidemic and the Fukushima meltdown triggered supply chain disruptions but these events did not co-occur with reduced demand.
 
-Read <a href='https://www.wsj.com/articles/commentary-supply-chain-risks-from-the-coronavirus-demand-immediate-action-11582054704" target="blank">his recommendations</a>. 
+Read <a href="https://www.wsj.com/articles/commentary-supply-chain-risks-from-the-coronavirus-demand-immediate-action-11582054704" target="blank">his recommendations</a>. 
 
 #### Protect Yourself From Insolvencies: Get Set Up With Invoice Factoring 
 
