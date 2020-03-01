@@ -1,7 +1,7 @@
 ---
 title: Hardening Your Business Against the Coronavirus Impact
 path: /coronavirus-business
-date: 2020-02-02
+date: 2020-03-01
 summary: Take action now to mitigate the impact of the coronavirus on your business.
 tags: ['coronavirus']
 ---
