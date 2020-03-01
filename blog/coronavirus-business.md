@@ -15,7 +15,9 @@ Here are some of his takeaways:
 <li>"I believe we're facing an already substantial outbreak in Washington State that was not detected until now due to narrow case definition requiring direct travel to China." </li>
 <li>"Our best current expectation is a few hundred current infections."</li></ul>
 
-This  multiplicative effect isn't surprising given the incubation period and the fact that some carriers can be asymptomatic. A variety of infectious disease experts have indicated we can expect a rapid and significant uptick in cases. 
+This  multiplicative effect isn't surprising given the incubation period and the fact that some carriers can be asymptomatic. 
+
+The New England Complex Systems Institute describes the virus as an extreme fat tail process, and adds, "Fat tailed processes have special attributes, making conventional risk-management approaches inadequate."
 
 The collateral damage of the disease's spread, such as the stock market decline, is going to impact businesses and further disrupt supply chains. 
 
