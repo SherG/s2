@@ -73,7 +73,7 @@ If you'd like to get set up with invoice factoring, <a href="https://calendly.co
 
 ### Supply Chain Financing: Get Paid Upfront For Large, Emergency Orders
 
-If you gets a bump in orders due to higher demand, invoice factoring and supply chain financing can make it easy for you to get paid in advance so that you can purchase the materials you need to fulfill those orders. 
+If you get a bump in orders due to higher demand (e.g., medical supplies, federal government orders) invoice factoring and supply chain financing can enable you to get paid in advance so that you can purchase the materials you need to fulfill those orders. 
 
 <a href="https://calendly.com/spearfish/consultation?month=2020-03" target="blank">Contact me</a> for more information.
 
