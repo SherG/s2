@@ -119,4 +119,6 @@ This resource page from the New England Complex Systems Institute includes a <a 
 
 For a quick take, <a href="https://www.youtube.com/watch?v=BKAoHCjlUFw" target="blank">watch this Bloomberg interview</a> with Yossi Sheffi, director of the Massachusetts Institute of Technology’s Center for Transportation and Logistics.
 
+### Coronavirus Is Different. It’s Rapidly Hitting Supply and Demand
 
+The Wall St. Journal: "Economists have struggled to project the extent of the economic fallout, which they say depends on whether the epidemic continues to spread—and on public reaction if it does."
