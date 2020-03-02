@@ -95,9 +95,11 @@ If you sell retail and have a minimal (or no) online presence, get up and runnin
 
 ## Co-Working and Commercial Real Estate
 
-Co-working will be a loser for at least the next several months. Once the virus emergency subsides, some business owners may decide that they'd prefer to have their employees continue to work remotely in order to save on office expenses and/or to recover from any revenue impact incurred from the virus.
+Co-working will be a loser for at least the next several months at minimum. 
 
-Come Monday, if we continue to have additional significant declines in the markets, we may be in for a deep recession and possibly deflation. That can significantly impact commercial real estate rentals and sales. The potential downstream effects are numerous. 
+Once the virus emergency subsides, some business owners may decide that they'd prefer to have their employees continue to work remotely in order to save on office expenses and/or to recover from any revenue impact incurred from the virus.
+
+Come Monday, if we continue to have additional significant declines in the markets, we may be in for a deep recession and possibly deflation. All of these factors can significantly impact commercial real estate rentals and sales. The potential downstream effects are numerous. 
 
 ## Summary
 
