@@ -103,6 +103,6 @@ This resource page from the New England Complex Systems Institute includes a <a 
 
 #### Virus-Related Supply Chain Disruptions to Get Much Worse, MIT's Sheffi Warns 
 
-For a quick take, watch this Bloomberg interview with Yossi Sheffi, director of the Massachusetts Institute of Technology’s Center for Transportation and Logistics.
+For a quick take, <a href="https://www.youtube.com/watch?v=BKAoHCjlUFw" target="blank">watch this Bloomberg interview</a> with Yossi Sheffi, director of the Massachusetts Institute of Technology’s Center for Transportation and Logistics.
 
 
