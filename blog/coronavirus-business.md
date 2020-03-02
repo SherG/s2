@@ -55,7 +55,7 @@ He points out that previous crises like the SARS epidemic and the Fukushima melt
 
 Read <a href="https://www.wsj.com/articles/commentary-supply-chain-risks-from-the-coronavirus-demand-immediate-action-11582054704" target="blank">his recommendations</a>. 
 
-#### Protect Yourself From Insolvencies: Get Set Up With Invoice Factoring 
+### Protect Yourself From Insolvencies: Get Set Up With Invoice Factoring 
 
 Before supply chain disruptions mount, start managing for cash flow rather than for profit. 
 
@@ -71,14 +71,14 @@ The credit risk insurance is obtained by our financial partner, who leverages th
 
 If you'd like to get set up with invoice factoring, <a href="https://calendly.com/spearfish/consultation?month=2020-03" target="blank">book an appointment</a> with me here. 
 
-#### Supply Chain Financing: Get Paid Upfront For Large, Emergency Orders
+### Supply Chain Financing: Get Paid Upfront For Large, Emergency Orders
 
 If your business gets a bump in orders due to higher demand, invoice factoring and supply chain financing can make it easy for you to get paid in advance so that you can purchase the materials you need to fulfill those orders. 
 
 <a href="https://calendly.com/spearfish/consultation?month=2020-03" target="blank">Contact me</a> for more information.
 
 
-### Look for E-Commerce Opportunities
+## Look for E-Commerce Opportunities and Shift In-Person Events Online
 
 If you've been providing in-person seminars and workshops, create an immediate plan to deliver these online. 
 
@@ -86,13 +86,25 @@ If your in-person seminars are part of a sales funnel, shift the entirety of you
 
 Consider using tools like <a href="https://www.clickfunnels.com/" target="blank">ClickFunnels</a> and <a href="https://home.webinarjam.com/index" target="blank">Webinar Jam</a>.
 
-If your business provides in-person consultations, make video consultations an option. 
+Note: providers of local one-on-one services like music lessons can also take their services online.
 
-### Co-Working and Commercial Real Estate
+If your business provides in-person business consultations, make video consultations an option. 
+
+If you sell retail and have a minimal (or no) online presence, get up and running immediately with an e-commerce solution. Many, like Shopify, are cheap and can be set up and populated with products within a few days. Also look at investing in online ads to attract digital foot traffic. 
+
+
+## Co-Working and Commercial Real Estate
 
 Co-working will be a loser for at least the next several months. Once the virus emergency subsides, some business owners may decide that they'd prefer to have their employees continue to work remotely in order to save on office expenses and/or to recover from any revenue impact incurred from the virus.
 
 Come Monday, if we continue to have additional significant declines in the markets, we may be in for a deep recession and possibly deflation. That can significantly impact commercial real estate rentals and sales. The potential downstream effects are numerous. 
+
+## Summary
+
+No one can predict the future impact the coronavirus will have on the markets, supply chains, or demand. 
+
+Prioritize your actions and adapt quickly. 
+
 
 
 ### Related Reading on the Coronavirus (COVID-19)
