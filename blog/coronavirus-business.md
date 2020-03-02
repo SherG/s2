@@ -43,7 +43,7 @@ If you're not already set up with video confercing try Zoom or Google Hangouts.
 
 Slack can be a useful tool for communicating short, urgent messages with staff. But take care not to overpopulate your Slack account with too many channels, otherwise you'll be injecting inefficiency and unnecessary complexity into your communications, which will worsen rather than improve them.
 
-Explore <a href="https://krisp.ai/" target="blank">Krisp.ai</a>, an app to remove background noise from calls. That's useful if they'll have background noise in their home or if they plan on working at another location, like a cafe, every so often.
+Explore <a href="https://krisp.ai/" target="blank">Krisp.ai</a>, an app to remove background noise from calls. That's useful if your employees have background noise in their home or if they plan on ocassionally working outdoors or at another location, like a cafe.
 
 ### Prepare For Supply Chain Disruptions and Diminished Demand
 
