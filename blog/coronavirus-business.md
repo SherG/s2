@@ -41,9 +41,9 @@ Draft a policy for use of company desktops or laptops at home. For example, you 
 
 If you're not already set up with video confercing try Zoom or Google Hangouts. 
 
-Slack can be a useful tool for communicating short, urgent messages with staff, but take care not to overpopulate your Slack account with too many channels, which will create chaos and inefficiency. 
+Slack can be a useful tool for communicating short, urgent messages with staff. But take care not to overpopulate your Slack account with too many channels, otherwise you'll be injecting inefficiency and unnecessary complexity into your communications, which will worsen rather than improve them.
 
-Consider telling your employees about <a href="https://krisp.ai/" target="blank">Krisp.ai</a>, an app to remove background noise from calls. That's useful if they'll have background noise in their home or if they plan on working at another location, like a cafe, every so often.
+Explore <a href="https://krisp.ai/" target="blank">Krisp.ai</a>, an app to remove background noise from calls. That's useful if they'll have background noise in their home or if they plan on working at another location, like a cafe, every so often.
 
 ### Prepare For Supply Chain Disruptions and Diminished Demand
 
