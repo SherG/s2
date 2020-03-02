@@ -9,8 +9,6 @@ tags: ['coronavirus']
 
 Yesterday <a href="https://bedford.io/team/trevor-bedford/" target="blank">Trevor Bedford</a>, a medical research scientist, <a href="https://twitter.com/trvrb/status/1233970271318503426" target="blank">published on Twitter</a> some new findings on the Washington coronavirus (Covid-19) cases. 
 
-His takeaways included there's been 
-
 Here are some of his takeaways: 
 
 <ul><li>"This strongly suggests that there has been cryptic transmission in Washington State for the past 6 weeks."</li>
