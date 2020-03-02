@@ -69,11 +69,11 @@ We only provide non-recourse factoring: this means that credit risk insurance is
 
 The credit risk insurance is obtained by our financial partner, who leverages their excellent credit rating to get the coverage at negligble cost. Protecting yourself with this type of insurance is smart move in periods before or during a recession. 
 
-If you'd like to get set up with invoice factoring, <a href="https://calendly.com/spearfish/consultation?month=2020-03" target="blank">book an appointment</a> with me here. 
+If you'd like to get set up with invoice factoring, <a href="https://calendly.com/spearfish/consultation?month=2020-03" target="blank">book a phone meeting</a> with me here. 
 
 ### Supply Chain Financing: Get Paid Upfront For Large, Emergency Orders
 
-If your business gets a bump in orders due to higher demand, invoice factoring and supply chain financing can make it easy for you to get paid in advance so that you can purchase the materials you need to fulfill those orders. 
+If you gets a bump in orders due to higher demand, invoice factoring and supply chain financing can make it easy for you to get paid in advance so that you can purchase the materials you need to fulfill those orders. 
 
 <a href="https://calendly.com/spearfish/consultation?month=2020-03" target="blank">Contact me</a> for more information.
 
@@ -99,7 +99,7 @@ Co-working will be a loser for at least the next several months at minimum.
 
 Once the virus emergency subsides, some business owners may decide that they'd prefer to have their employees continue to work remotely in order to save on office expenses and/or to recover from any revenue impact incurred from the virus.
 
-Come Monday, if we continue to have additional significant declines in the markets, we may be in for a deep recession and possibly deflation. All of these factors can significantly impact commercial real estate rentals and sales. The potential downstream effects are numerous. 
+Come Monday, if we continue to have additional significant declines in the markets, we may be in for a deep recession and possibly deflation. All of these factors can impact commercial real estate rentals and sales. The potential downstream effects are numerous. 
 
 ## Summary
 
@@ -109,9 +109,9 @@ Other analysts contemplate the possibility of a <a href="https://twitter.com/Cai
 
 Prioritize your actions and adapt quickly. 
 
+<hr>
 
-
-### Related Reading on the Coronavirus (COVID-19)
+### Related content on the Coronavirus (COVID-19)
 
 #### <a href="https://necsi.edu/corona-virus-pandemic" target="blank">Stopping the Coronavirus Pandemic</a>
 
@@ -124,5 +124,6 @@ For a quick take, <a href="https://www.youtube.com/watch?v=BKAoHCjlUFw" target="
 #### <a href="https://www.wsj.com/articles/coronavirus-is-different-almost-no-company-is-safe-11583064000" target="blank">Coronavirus Is Different. It’s Rapidly Hitting Supply and Demand</a>
 
 From the Wall St. Journal: "Economists have struggled to project the extent of the economic fallout, which they say depends on whether the epidemic continues to spread—and on public reaction if it does."
+
 
 
