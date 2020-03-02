@@ -103,7 +103,9 @@ Come Monday, if we continue to have additional significant declines in the marke
 
 ## Summary
 
-No one can predict the future impact the coronavirus will have on the markets, supply chains, or demand. 
+No one can predict the future impact the coronavirus will have on the markets, supply chains, or demand. But that hasn't stopped some economist from predicting a slow-down lasting several months followed by a "<a href="https://www.wsj.com/articles/coronavirus-is-different-almost-no-company-is-safe-11583064000" target="blank">sharp rebound</a>." 
+
+Other analysts contemplate the possibility of a <a href="https://twitter.com/CaitlinLong_/status/1221102861934661633" target="blank">Chernobyl-like pricking of the credit bubble</a>. (Also <a href="https://twitter.com/CaitlinLong_/status/1233798510169845761" taget="blank">see this</a>.)
 
 Prioritize your actions and adapt quickly. 
 
@@ -122,3 +124,5 @@ For a quick take, <a href="https://www.youtube.com/watch?v=BKAoHCjlUFw" target="
 ### <a href="https://www.wsj.com/articles/coronavirus-is-different-almost-no-company-is-safe-11583064000" target="blank">Coronavirus Is Different. It’s Rapidly Hitting Supply and Demand</a>
 
 From the Wall St. Journal: "Economists have struggled to project the extent of the economic fallout, which they say depends on whether the epidemic continues to spread—and on public reaction if it does."
+
+
