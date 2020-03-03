@@ -17,7 +17,7 @@ Here are some of his takeaways:
 
 This  multiplicative effect isn't surprising given the incubation period and the fact that some carriers can be asymptomatic. 
 
-The New England Complex Systems Institute describes the virus as an extreme fat tail process, and adds, "Fat tailed processes have special attributes, making conventional risk-management approaches inadequate."
+The New England Complex Systems Institute describes the virus as an extreme fat tail process, adding that "conventional risk-management approaches are inadequate."
 
 The collateral damage of the disease's spread, such as the stock market decline, is going to impact businesses and further disrupt supply chains. 
 
@@ -100,6 +100,10 @@ Co-working will be a loser for at least the next several months at minimum.
 Once the virus emergency subsides, some business owners may decide that they'd prefer to have their employees continue to work remotely in order to save on office expenses and/or to recover from any revenue impact incurred from the virus.
 
 Come Monday, if we continue to have additional significant declines in the markets, we may be in for a deep recession and possibly deflation. All of these factors can impact commercial real estate rentals and sales. The potential downstream effects are numerous. 
+
+## Personal Preparation 
+
+
 
 ## Summary
 
