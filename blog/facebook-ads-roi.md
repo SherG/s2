@@ -116,5 +116,5 @@ And when it comes to evaluating Facebook ad marketers, do your homework: educate
 
 <a href="/see-think-do-model/">The See - Think - Do - Care Model</a>
 
-<a href="https://www.amazon.com/gp/product/B01617VD3I/ref=ppx_yo_dt_b_d_asin_title_o03?ie=UTF8&psc=1" target="blank"Fanatical Prospecting</a> by Jeb Blount
+<a href="https://www.amazon.com/gp/product/B01617VD3I/ref=ppx_yo_dt_b_d_asin_title_o03?ie=UTF8&psc=1" target="blank">Fanatical Prospecting</a> by Jeb Blount
 
