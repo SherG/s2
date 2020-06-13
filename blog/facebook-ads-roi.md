@@ -96,8 +96,10 @@ Running a few numbers can open our eyes to how close we are to acheiving our bus
 The purpose of this article was to underscore the importance of having a goal for your campaigns before they launch and of having useful metrics by which to judge the outcomes. But I want to leave you with a few additional considerations. 
 
 * Anything can be done well or poorly and that includes Facebook campaigns. If you're not getting results you can choose another marketer. 
+* It's difficult to be able to assess a Facebook ad marketer if you don't already have basic knowledge of this ad platform and know what to look for. Take one or two online courses to educate yourself. 
 * Do give your marketer adequate time. The campaign is occuring in a live digital ecosystem of thousands of individuals responding to your ad's copy, creative, placement, format, landing page, and offer. Any of these factors, in addition to the ad targeting, may need to be adjusted to improve results. 
-* When it comes to the free trial, opt for 4 weeks, not 2 weeks. The marketer will need to calibrate the campaign as it goes along. And don't expect to see the totality of what's possible in the first 2-4 weeks. 
+* When it comes to the free trial, opt for 4 weeks, not 2 weeks. The marketer will need to calibrate the campaign as it goes along. And don't expect to see the totality of what's possible in the first weeks. Indeed, it will be difficult to judge the marketer in such a short time period.
+* Before you hire a Facebook ad marketer, first verify results they've achieved for others. 
 * If you're not responding to your inbound leads immediately, you're going to lose sales. 
 
 ## Summary
@@ -105,6 +107,8 @@ The purpose of this article was to underscore the importance of having a goal fo
 When you assess the results of your own ad campaigns, I hope you'll put your "data glasses" on first. 
 
 Doing so will prevent you from mistaking success for failure.
+
+And when it comes to evaluating Facebook ad marketers, do your homework: educate yourself first and take time to verify what they've acheived for others.
 
 
 ### Related reading
