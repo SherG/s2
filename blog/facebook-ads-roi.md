@@ -99,7 +99,8 @@ The purpose of this article was to underscore the importance of having a goal fo
 * It's difficult to be able to assess a Facebook ad marketer if you don't already have basic knowledge of this ad platform and know what to look for. Take one or two online courses to educate yourself. 
 * Do give your marketer adequate time. The campaign is occuring in a live digital ecosystem of thousands of individuals responding to your ad's copy, creative, placement, format, landing page, and offer. Any of these factors, in addition to the ad targeting, may need to be adjusted to improve results. 
 * When it comes to the free trial, opt for 4 weeks, not 2 weeks. The marketer will need to calibrate the campaign as it goes along. And don't expect to see the totality of what's possible in the first weeks. Indeed, it will be difficult to judge the marketer in such a short time period.
-* Before you hire a Facebook ad marketer, first verify results they've achieved for others. 
+* Before you hire a Facebook ad marketer, first verify results they've achieved for others. This is your best indicator that they will be able to deliver qualified leads to you on a continuing basis.
+* If you're new to following up with leads and sales, realize that it's a slog, and that's normal. Read and listen to podcasts about sales and prospecting. 
 * If you're not responding to your inbound leads immediately, you're going to lose sales. 
 
 ## Summary
@@ -114,4 +115,6 @@ And when it comes to evaluating Facebook ad marketers, do your homework: educate
 ### Related reading
 
 <a href="/see-think-do-model/">The See - Think - Do - Care Model</a>
+
+<a href="https://www.amazon.com/gp/product/B01617VD3I/ref=ppx_yo_dt_b_d_asin_title_o03?ie=UTF8&psc=1" target="blank"Fanatical Prospecting</a> by Jeb Blount
 
