@@ -61,22 +61,19 @@ Before supply chain disruptions mount, start managing for cash flow.
 
 If you sell B2B or B2G (business to government) on 30-, 60-, or 90-day terms, you can sell your invoices for immediate cash. This process is called <a href="https://www.spearfishcap.com/services/invoice-factoring/" target="blank">invoice factoring</a> and it doesn't add any debt to your business. 
 
-My other business, <a href="https://www.spearfishcap.com/" target="blank">Spearfish</a>, provides invoice factoring services for businesses earning a minimum of roughly $20k in average monthly revenue. 
+My other business, <a href="https://www.spearfishcap.com/" target="blank">Spearfish</a> provides such solutions for businesses earning a minimum of roughly $25k in average monthly revenue. 
 
 ##### Non-Recourse Factoring
 
-We only provide non-recourse factoring: this means that credit risk insurance is added to your factoring account so that if your customer/vendor goes bankrupt within the factoring period you are not on the hook for the cash that was advanced to you. 
+Opt for non-recourse factoring: this means that credit risk insurance is added to your factoring account so that if your customer/vendor goes bankrupt within the factoring period you are not on the hook for the cash that was advanced to you. 
 
-The credit risk insurance is obtained by our financial partner, who leverages their excellent credit rating to get the coverage at negligble cost. Protecting yourself with this type of insurance is smart move in periods before or during a recession. 
+Protecting yourself with this type of insurance is smart move in periods before or during a recession. 
 
-If you'd like to get set up with invoice factoring, <a href="https://calendly.com/spearfish/consultation?month=2020-03" target="blank">book a phone meeting</a> with me here. 
+If you'd like to learn more about debt-free business financing options, feel free to <a href="https://calendly.com/spearfish/consultation?month=2020-03" target="blank">book a phone meeting</a> with one our our staff. 
 
 ### Supply Chain Financing: Get Paid Upfront For Large, Emergency Orders
 
-If you get a bump in orders due to higher demand (e.g., medical supplies, federal government orders) invoice factoring and supply chain financing can enable you to get paid in advance so that you can purchase the materials you need to fulfill those orders. 
-
-<a href="https://calendly.com/spearfish/consultation?month=2020-03" target="blank">Contact me</a> for more information.
-
+If you get a bump in orders due to higher demand (e.g., medical supplies, federal government orders) invoice factoring and supply chain financing can enable you to get paid in advance so that you can purchase the materials you need to fulfill those orders.
 
 ## Look for E-Commerce Opportunities and Shift In-Person Events Online
 
@@ -86,11 +83,11 @@ If your in-person seminars are part of a sales funnel, shift the entirety of you
 
 Consider using tools like <a href="https://www.clickfunnels.com/" target="blank">ClickFunnels</a> and <a href="https://home.webinarjam.com/index" target="blank">Webinar Jam</a>.
 
-Note: providers of local one-on-one services like music lessons can also take their services online.
+Note: providers of local one-on-one services like fitness training, life coaching, or music lessons can also take their services online.
 
 If your business provides in-person business consultations, make video consultations an option. 
 
-If you sell retail and have a minimal (or no) online presence, get up and running immediately with an e-commerce solution. Many, like Shopify, are cheap and can be set up and populated with products within a few days. Also look at investing in online ads to attract digital foot traffic. 
+If you sell retail and have a minimal (or no) online presence, get up and running immediately with an e-commerce solution. Many, like Shopify, are cheap and can be set up and populated with products within a few days. Also look at using online ads to attract digital foot traffic. 
 
 
 ## Co-Working and Commercial Real Estate
@@ -100,9 +97,6 @@ Co-working will be a loser for at least the next several months at minimum.
 Once the virus emergency subsides, some business owners may decide that they'd prefer to have their employees continue to work remotely in order to save on office expenses and/or to recover from any revenue impact incurred from the virus.
 
 Come Monday, if we continue to have additional significant declines in the markets, we may be in for a deep recession and possibly deflation. All of these factors can impact commercial real estate rentals and sales. The potential downstream effects are numerous. 
-
-## Personal Preparation 
-
 
 
 ## Summary
