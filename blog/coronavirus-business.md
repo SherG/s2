@@ -55,9 +55,9 @@ He points out that previous crises like the SARS epidemic and the Fukushima melt
 
 Read <a href="https://www.wsj.com/articles/commentary-supply-chain-risks-from-the-coronavirus-demand-immediate-action-11582054704" target="blank">his recommendations</a>. 
 
-### Protect Yourself From Insolvencies: Get Set Up With Invoice Factoring 
+### Protect Yourself From Insolvencies
 
-Before supply chain disruptions mount, start managing for cash flow rather than for profit. 
+Before supply chain disruptions mount, start managing for cash flow. 
 
 If you sell B2B or B2G (business to government) on 30-, 60-, or 90-day terms, you can sell your invoices for immediate cash. This process is called <a href="https://www.spearfishcap.com/services/invoice-factoring/" target="blank">invoice factoring</a> and it doesn't add any debt to your business. 
 
