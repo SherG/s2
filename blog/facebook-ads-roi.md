@@ -102,6 +102,7 @@ The purpose of this article was to underscore the importance of having a goal fo
 * When it comes to the free trial, opt for 4 weeks, not 2 weeks. The marketer will need to calibrate the campaign as it goes along. And don't expect to see the totality of what's possible in the first weeks. Indeed, it will be difficult to judge the marketer in such a short time period.
 * If you're new to following up with leads and sales, realize that it's a slog, and that's normal. Read and listen to podcasts about sales and prospecting. 
 * If you're not responding to your inbound leads immediately, you're going to lose sales. 
+* With digital, it's important to always be experimenting. Sometimes slight modifications have outsized impact. 
 
 ## Summary
 
