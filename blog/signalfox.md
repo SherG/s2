@@ -6,7 +6,7 @@ summary: SignalFox provides free resources to small businesses looking to scale.
 tags: ['strategy']
 ---
 
-<em>Note: SignalFox is not currrently accepting new clients. But feel free to peruse our resources.</em>
+<em>Note: Sorry but we're fully booked and cannot currently accept new clients. Free to peruse our resources here.</em>
 
 SignalFox provides free resources to small business owners looking to scale. Our goal is to provide information drawn from experience on how to identify problems worth solving, prioritize those opportunities, and create a strategic plan for growth.
 
