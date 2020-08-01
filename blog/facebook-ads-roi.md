@@ -22,7 +22,7 @@ First, let's set the scene.
 
 A former client received a pitch from a Facebook Ads marketer. The marketer offered to run lead ads for him for a month for free. "Free" means you pay nothing for the advertiser's work; you do pay for the ads themselves. The client asked me for my take on the pitch. 
 
-I explained that while I don't provide a service that vets individual marketers, this pitch is common and accepted in the industry. 
+I don't provide a service that vets individual marketers, however I explained that this pitch is common in the industry. 
 
 The idea is that the marketer wants to prove that they can produce leads for you within that time period. They're confident that once you see the leads coming in, you'll sign up for their service. 
 
@@ -30,7 +30,7 @@ Readers please note: leads are not the same as sales, right? The marketer isn't 
 
 > You may be closer to success than you realize.
 
-I also explained that some successful Facebook marketers will decline a client if the client hasn't been experiencing regular growth. These marketers contend that Facebook lead ads work best for scaling up growth in a healthy business, not for sparking growth from zero. (The thinking is that zero growth could indicate a problem with the core business model, something that Facebook Lead Ads can't fix.)
+I also explained that some successful Facebook marketers will decline a client if the client hasn't been experiencing regular growth. These marketers contend that Facebook lead ads work best for <mark>scaling up growth</mark> in a healthy business, not for sparking growth from zero. (The thinking is that zero growth could indicate a problem with the core business model, something that Facebook Lead Ads can't fix.)
 
 ## What's Your Average Customer Lifetime Value? 
 
@@ -50,11 +50,15 @@ Intead of 4 free weeks, the client chose 2 free weeks. He paid $200 for the ads.
 
 He got 16 leads and 1 sale. Is that good or bad? 
 
+First, realize that 2 weeks is not a long enough time frame to judge whether that number of leads will come in consistently.  But in order to focus on the ROI aspect, let's assume for this example, that the marketer had produced these results consistently over a longer time frame. 
+
 Let's look at the results through 2 different lenses: one of disappointment and one of data. 
 
 ### The Disappointment Lens 
 
 The business owner — a solopreneur — had to follow up with leads via email and phone. There was phone tag, he had to send reminder emails, and people were difficult to get ahold of. A minority actually made an appointment for the free consultation for his service. One was a no-show. 
+
+This is part and parcel of running a small business. No one enjoys it, but filtering through no-shows and being persistent in follow-ups is necessary.
 
 One way to look at this is to focus on the frustration (and number) of boring follow-up tasks. Whether one chooses the disappointment lens has a lot to do with one's expectations. 
 
@@ -71,7 +75,7 @@ The business owner paid $200 to get a client worth $35,000.
 
 With data at the center, any disappointment over no-shows or boring follow-up work should fade immediately. 
 
-Now, two weeks isn't enough time to get an idea of average conversion rate. But let's assume for the sake of this article, that the business owner continues to obtain an average of 2 sales every month. Is that conversion rate good or bad? 
+Now, as mentioned above, two weeks isn't enough time to get an idea of average conversion rate. But let's assume for the sake of this article, that the business owner continues to obtain an average of 2 sales every month. Is that conversion rate good or bad? 
 
 First, get some perspective. Find out what the average lead conversion rate is for your industry. Look for anecdotal figures from friends. A colleague of mine makes one sale per 100 leads. He'd be beyond thrilled to get 1 sale out of 16. 
 
