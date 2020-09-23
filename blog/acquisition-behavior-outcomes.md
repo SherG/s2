@@ -56,7 +56,7 @@ It requires working through questions like:
 
 * What keywords should be trying to rank for? Which ones do we currently rank for? How do we stack up against the competition? 
 * Do we have an SEO strategy? Is it written down? What are we going to do to improve our search engine ranking?
-* What percentage of our traffic comes from Google? What percentage is referral traffic (e.g. from Facebook)?
+* What percentage of our traffic comes from Google? What percentage is referral traffic (e.g., from Facebook)?
 * Which traffic sources or campaigns are driving the most revenue for our business? Are we over-investing in underperforming channels? 
 
 ## 2. What Do We Want Visitors to Do Once They Arrive?
