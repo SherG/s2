@@ -130,7 +130,7 @@ The nature and quality of this data is wholly different from the analytics provi
 
 <img class="right" src="https://res.cloudinary.com/icecloud7/image/upload/w_300/f_auto,e_sharpen/v1567386779/avinash-kaushik_h1hrlr.png"/>
 
-<div style="padding-left: 2.3em; background-color: whitesmoke"><br/><br/><p>“If you want to win on the web, you have to do both Own and Rent really well. You pretty much don’t have a choice.</p><p> But if you are going to suck at something, sucking at rent is preferable.” </p><br/>
+<div style="padding-left: 2.3em; background-color: whitesmoke"><br/><p>“If you want to win on the web, you have to do both Own and Rent really well. You pretty much don’t have a choice.</p><p> But if you are going to suck at something, sucking at rent is preferable.” </p><br/>
 <em>— Avinash Kaushik</em><br/><br/></div>
 
 
