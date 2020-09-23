@@ -229,7 +229,7 @@ Here's a story that a client shared with me. It illustrates how the See - Think 
 <details>
  <summary>"Facebook ads don't work!"</summary><br/>
 
-<p>A sole proprietor ran a single Facebook ad for $50 to sell something that costs over $2,000. But no one bites on the ad. The business owner concludes “Facebook ads don’t work!” </p>
+<p>A sole proprietor ran a single Facebook ad for $50 to sell something that costs over $2,000. No one bites on the ad. The business owner concludes “Facebook ads don’t work!” </p>
 
 <p>Why didn’t anyone bite on the ad? </p>
  
