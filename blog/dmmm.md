@@ -24,8 +24,8 @@ With good reason he recommends that the DMMM be signed so that "all parties are 
 
 <img class="right" src="https://res.cloudinary.com/icecloud7/image/upload/w_300/q_auto,f_auto,e_sharpen/v1563563749/avinash-kaushik_pwha0v.png"/>
 
-<div style="padding-left: 2.3em; background-color: whitesmoke"><p>The root cause of failure in most digital marketing campaigns is not the lack of creativity in the banner ad or TV spot or the sexiness of the website. It is not even (often) the people involved. It is quite simply the <strong>lack of structured thinking</strong> about what the real purpose of the campaign is and a lack of an objective set of measures with which to identify success or failure.</p><br/>
-<em>— Avinash Kaushik</em></div>
+<div style="padding-left: 2.3em; background-color: whitesmoke"><br/><p>The root cause of failure in most digital marketing campaigns is not the lack of creativity in the banner ad or TV spot or the sexiness of the website. It is not even (often) the people involved. It is quite simply the <strong>lack of structured thinking</strong> about what the real purpose of the campaign is and a lack of an objective set of measures with which to identify success or failure.</p><br/>
+<em>— Avinash Kaushik</em><br/></div>
 
 Those who are familiar with the <a href="https://jester.nl/en/ogsm-model/" target="blank">OGSM strategic planning process</a> will see this model as related. (<a href="https://en.wikipedia.org/wiki/OGSM" target="blank">OGSM</a> stands for Objectives, Goals, Strategies, and Measures.) 
 
