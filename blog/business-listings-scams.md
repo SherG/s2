@@ -18,9 +18,9 @@ Before we look at the questionable pitches, let's take a look at how business li
 
 ## What Are Business Listings? 
 
-Business listings or "local SEO" focuses on getting your business listed in online directories. Why? It helps your business to get found online and the inbound links from directories can boost the ranking of your website. 
+Business listings or "local SEO" focuses on getting your business listed in online directories. Why? It helps your business to get found online and the inbound links from directories can boost the ranking of your website. (You can easily learn how to do this yourself with the <a href="https://bit.ly/31iwUCo" target="blank">same tool I use</a>.)
 
-1. NAP consistency is important: NAP stands for your businesses' name, address, and phone number. It's important for obvious reasons: if you have a wrong phone number listed on Yelp or Facebook, you might be losing business. But it also is a signal to Google that your business is legitimate and your contact info is verified.
+1. "NAP" consistency is important: NAP stands for your businesses' name, address, and phone number. It's important for obvious reasons: if you have a wrong phone number listed on Yelp or Facebook, you might be losing business. But it also is a signal to Google that your business is legitimate and your contact info is verified.
 
 2. While NAP consistency is important, a minor detail, like having your business name listed in one spot with "Inc." and another spot without "Inc." is unlikely to matter to Google.
 
