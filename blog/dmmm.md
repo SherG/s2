@@ -124,7 +124,7 @@ Vanity metrics are largely meaningless but often attract the inexperienced becau
 
 It's possible to have <a href="https://hbr.org/2013/03/know-the-difference-between-yo" target="blank">millions of video views</a> and to fail at customer acquisition, sales, and revenue generation. There are plenty of free resources to get up to speed on digital analytics. (See the Related Resources section at the end of this post.)
 
-Please note that some metrics may make sense for <a href="/see-think-do-model">particular projects in specific channels</a>, and yet may not qualify as KPIs because they are untethered to your venture's ultimate raison d'être.
+Please note that some metrics may be useful for <a href="/see-think-do-model">particular projects in specific channels</a>, and yet may not qualify as KPIs because they are untethered to your venture's ultimate raison d'être.
 
 Focus instead on metrics that reveal whether or not you're achieving your core business objectives. 
 
