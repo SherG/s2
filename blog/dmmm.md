@@ -118,11 +118,15 @@ KPIs (Key Performance Indicators) are metrics that show you how you're doing as 
 
 ### Avoid Vanity Metrics
 
-Avoid the swamp of "vanity metrics" — such as total page views, total video views, Facebook fans, Twitter followers, number of emails sent, size of email list, "impressions," number of press reports, and so on. 
+When selecting KPIs, avoid the swamp of vanity metrics — such as engagement, total page views, total video views, Facebook fans, Twitter followers, number of emails sent, size of email list, impressions, reach, number of press reports, and so on. 
 
-Vanity metrics are largely meaningless but often attract the inexperienced because they offer large numbers, or are easy to "goose" into the millions. Focus instead on metrics that indicate how well you are engaging, retaining, and converting customers and prospects. 
+Vanity metrics are largely meaningless but often attract the inexperienced because they offer large numbers, or are easy to "goose" into the millions.
 
 It's possible to have <a href="https://hbr.org/2013/03/know-the-difference-between-yo" target="blank">millions of video views</a> and to fail at customer acquisition, sales, and revenue generation. There are plenty of free resources to get up to speed on digital analytics. (See the Related Resources section at the end of this post.)
+
+Note that some metrics may make sense for, say, certain projects for <a href="/see-think-do-model">particular channels</a>, and yet may not qualify as KPIs because they are untethered to your business's -- or non-profit's -- ultimate raison d'être.
+
+Focus instead on metrics that reveal whether or not you're achieving your business objectives. 
 
 > All data in aggregate is crap.<br/>
 <small>— Avinash Kaushik</small>
@@ -140,7 +144,6 @@ Let's add some more examples:
 * Grow revenue (non-profit example) | Improve communication with donors |  donor retention, 'basket' size, total membership, 'revival' of lapsed donors, total donations.
 
 With digital strategies and KPIs completed you can start creating to-do lists and KPIs can be monitored. These KPIs will give you insight into: 
-
 
 * Based on voice of customer feedback, what needs to be improved? 
 * What areas of marketing are having challenges?
