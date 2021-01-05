@@ -35,7 +35,7 @@ First, identify types of businesses that are already providing professional serv
 
 <i>Example 1:</i>
 
-Let’s consider the example of a locksmith who provides door reinforcement services. Who is your ideal client? Someone in your area who is concerned about personal security and ready to buy. What other businesses might be serving this client right now? A few come to mind right away: 
+Let’s consider the example of a locksmith who provides door reinforcement services. Who is your ideal client? Someone in your area who is concerned about personal security and ready to buy. What other businesses might be serving this client <strong><i>right now</i></strong>? A few come to mind right away: 
 
 * Realtors
 * Installers of wired home security systems
