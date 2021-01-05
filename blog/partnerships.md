@@ -10,7 +10,7 @@ In the flattening wake of the pandemic, small business owners need smart ways to
 
 Predictably, small business owners are upskilling on SEO, sales, analytics, and social media. (Marketing Charts has a nice <a href="https://www.marketingcharts.com/featured-112414" target="blank">curated list</a> of related trends.)
 
-One of the areas most overlooked by small business owners are referral partnerships. These partnerships are a no-brainer when it comes to service-based businesses.
+One of the areas most overlooked by small business owners are <strong>referral partnerships</strong>. These partnerships are a no-brainer when it comes to service-based businesses.
 
 ## Get Qualified Leads From Deal-Makers
 
