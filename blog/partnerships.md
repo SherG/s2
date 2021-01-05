@@ -21,7 +21,7 @@ The business may want to help the client solve the problem and receive compensat
 
 Often the referring business will be one that offers a service tangential to and complementary to your own. But a partner can also be an influential player who is strategically in the flow of a lot of deals with clients that you can service. And don’t overlook well-connected retirees. 
 
-Partnerships are an efficient way to obtain new, paying clients with minimal effort and no advertising spend. Using this tactic, you can jumpstart a new business or rapidly onboard new clients when you pivot to a new business model. 
+Partnerships are an efficient way to obtain new, paying clients with minimal effort and <strong>no advertising spend</strong>. Using this tactic, you can jumpstart a new business or rapidly onboard new clients when you pivot to a new business model. 
 
 ![partnerships](../static/business-handshake.svg)
 
