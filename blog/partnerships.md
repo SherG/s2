@@ -77,6 +77,6 @@ If you want a lawyer to review your contract before you offer it to anyone, ther
 
 The faster you act on this, the closer you’ll get to the true opportunities in your network.
 
-You can also start to look at all the new people you meet online or in person as potential partners. But remember: for this tactic to work, you want to select people who are in a position to really deliver those leads because they are already servicing -- or otherwise connected to -- your ideal clients. 
+You can also start to look at all the new people you meet online or in person as potential partners. But remember: for this tactic to work, you want to select people who are in a position to really deliver those leads because they are already servicing — or otherwise connected to — your ideal clients. 
 
 
