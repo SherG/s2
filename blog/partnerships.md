@@ -16,8 +16,8 @@ One of the areas most overlooked by small business owners are referral partnersh
 
 This article focuses on a specific type of partnership where an individual or business agrees to send qualified leads to you because it benefits them to do so.
 
-The individual or business seeks to earn goodwill from these customers because the referral helps the client solve a problem. (The referrer’s practice area or business model may lead them to decline payment for referrals.)
-The business may want to help the client solve the problem and receive compensation from you when the referral converts. 
+* The individual or business seeks to earn goodwill from these customers because the referral helps the client solve a problem. (The referrer’s practice area or business model may lead them to decline payment for referrals.)
+* The business may want to help the client solve the problem and receive compensation from you when the referral converts. 
 
 Often the referring business will be one that offers a service tangential to and complementary to your own. But a partner can also be an influential player who is strategically in the flow of a lot of deals with clients that you can service. And don’t overlook well-connected retirees. 
 
