@@ -10,14 +10,14 @@ In the flattening wake of the pandemic, small business owners need smart ways to
 
 Predictably, small business owners are upskilling on SEO, sales, analytics, and social media. (Marketing Charts has a nice <a href="https://www.marketingcharts.com/featured-112414" target="blank">curated list</a> of related trends.)
 
-One of the areas most overlooked by small business owners are <strong>referral partnerships</strong>. These partnerships are a no-brainer when it comes to service-based businesses.
+One of the areas most overlooked by small business owners are <strong>referral partnerships</strong>. These partnerships provide a way to jumpstart revenue with zero spend on marketing vendors or tools.
 
 ## Get Qualified Leads From Deal-Makers
 
 This article focuses on a specific type of partnership where an individual or business agrees to send qualified leads to you because it benefits them to do so.
 
 * The referring individual or business seeks to earn goodwill from their customers: the referral helps the client solve a problem. (The referrer’s practice area or business model may lead them to decline payment for referrals.)
-* The referring individual or business may also want to help the customer solve the problem and receive compensation from you when the referral converts. 
+* The referring individual or business may not only want to help the customer solve the problem, but they also would like to receive compensation from you when the referral converts. 
 
 Often the referring business will be one that offers a service tangential to and complementary to your own. But a partner can also be an influential player who is strategically in the flow of numerous deals with clients that you can service. And don’t overlook well-connected retirees. 
 
@@ -60,8 +60,8 @@ Some reasons why a business might not be able to service a client might include:
 
 * Maxed-out capacity: perhaps they don’t have the personnel or time to take on more clients.
 * Geographical restrictions: Perhaps the business doesn’t service your region, town, city, or state. 
-* Size: Perhaps they service mid-sized companies rather than small businesses
-* Credit restrictions: Perhaps they can only service customers with a certain level of credit score, but you have a different set of qualification
+* Size: Perhaps they service mid-sized companies rather than small businesses.
+* Credit restrictions: Perhaps they can only service customers with a certain level of credit score, but you have a different set of qualifications.
 
 
 ## The How: Create a Spreadsheet, Offers, and a Contract
