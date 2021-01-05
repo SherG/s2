@@ -70,7 +70,8 @@ Create a spreadsheet list with all the people you want to target with their cont
 
 Prepare an offer in advance. For “kingpins” (the extraordinarily well-connected who can deliver) consider offering a generous percentage. For example, I know several business owners who provide kingpins with 50% of any deals they send. There’s no reason a kingpin would reject that figure. If they’re not a kingpin, consider 30% (a figure which can be reviewed after they deliver some leads that convert).
 
-Before you contact your potential partners, draft up a contract for the “kingpin” and a different one for the “ordinary” partner. (You can likely find one online.) Use an online service like DocuSign to get the contract signed and stored online. Do a few trial runs of sending and signing the contract before you send it to a potential partner. That way the process will go smoothly.
+* Draft a contract for “kingpins” and a different one for the “ordinary” partner. (The only difference will be the commission.) You can likely find a basic draft template online to customize.) 
+* Use an online service like DocuSign to get the contract signed and stored online. Do a few trial runs of sending and signing the contract before you send it to a potential partner. That way the process will go smoothly.
 
 If you want a lawyer to review your contract before you offer it to anyone, there are plenty of online services that will provide this service at an affordable rate.
 
