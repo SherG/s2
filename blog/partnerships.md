@@ -1,7 +1,7 @@
 ---
 title: Accelerate Growth With Zero Marketing Spend
 path: /partnerships
-date: 2020-03-01
+date: 2021-01-05
 summary: How to get qualified leads from businesses and "kingpins."
 tags: ['coronavirus']
 ---
