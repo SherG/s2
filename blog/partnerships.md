@@ -50,20 +50,20 @@ You provide business financing to select industries. In this scenario you likely
 
 What businesses might be serving your ideal client right now? CPAs and business consultants for starters. If you provide a type of financing that banks don’t, then local and regional banks should be on your list. 
 
+
 Once you put your mind to it, you’ll be surprised at the number of possibilities you come up with.
 
 Also consider businesses that are offering the same exact service you are, but for some reason, are unable to service a subset of their clients, whom you can service.
 
 Some reasons why a business might not be able to service a client might include: 
 
+* Maxed-out capacity: perhaps they don’t have the personnel or time to take on more clients.
+* Geographical restrictions: Perhaps the business doesn’t service your region, town, city, or state. 
+* Size: Perhaps they service mid-sized companies rather than small businesses
+* Credit restrictions: Perhaps they can only service customers with a certain level of credit score, but you have a different set of qualification
 
-Maxed-out capacity: perhaps they don’t have the personnel or time to take on more clients.
-Geographical restrictions: Perhaps the business doesn’t service your region, town, city, or state. 
-Size: Perhaps they service mid-sized companies rather than small businesses
-Credit restrictions: Perhaps they can only service customers with a certain level of credit score, but you have a different set of qualification
 
-
-The How: Create a Spreadsheet, Offers, and a Contract
+## The How: Create a Spreadsheet, Offers, and a Contract
 
 Create a spreadsheet list with all the people you want to target with their contact information and make a plan to methodically contact all of them.
 
@@ -73,7 +73,8 @@ Before you contact your potential partners, draft up a contract for the “kingp
 
 If you want a lawyer to review your contract before you offer it to anyone, there are plenty of online services that will provide this service at an affordable rate.
 
-The When: Now 
+## The When: Now 
+
 The faster you act on this, the closer you’ll get to the true opportunities in your network.
 
 You can also start to look at all the new people you meet online or in person as potential partners. But remember: for this tactic to work, you want to select people who are in a position to really deliver those leads because they are already servicing -- or otherwise connected to -- your ideal clients. 
