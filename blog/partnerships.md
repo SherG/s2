@@ -49,7 +49,7 @@ In addition, your ideal locksmith client may visit their local police station to
 
 You provide business financing to select industries. In this scenario you likely have specific parameters for your ideal client, such as length of time in business, average monthly sales. 
 
-What businesses might be serving your ideal client right now? CPAs and business consultants for starters. If you provide a type of financing that banks don’t, then local and regional banks should be on your list. 
+What businesses might be serving your ideal client right now? CPAs and business consultants for starters. If you provide a <a href="https://www.spearfishcap.com/" target="blank">type of financing</a> that banks don’t, then local and regional banks should be on your list. 
 
 
 Once you put your mind to it, you’ll be surprised at the number of possibilities you come up with.
