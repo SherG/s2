@@ -31,9 +31,7 @@ Instead of spending on ads, LinkedIn Navigator, content marketing, and other cos
 
 ### The What: Identify People and Businesses
 
-First, identify types of businesses that are already providing professional services to your ideal client. Set aside some time to brainstorm this and you’ll be surprised at the number of possibilities that surface.
-
-Once you put your mind to it, you’ll be surprised at the number of possibilities you come up with.
+First, identify types of businesses that are already providing professional services to your ideal client. Once you put your mind to it, you’ll be surprised at the number of possibilities you come up with.
 
 Be sure to include businesses that are offering the same exact service you are, but for some reason, are unable to satisfy a subset of their clients, whom you can service.
 
