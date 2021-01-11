@@ -33,28 +33,9 @@ Instead of spending on ads, LinkedIn Navigator, content marketing, and other cos
 
 First, identify types of businesses that are already providing professional services to your ideal client. Set aside some time to brainstorm this and you’ll be surprised at the number of possibilities that surface.
 
-<i>Example 1:</i>
-
-Let’s consider the example of a locksmith who provides door reinforcement services. Who is your ideal client? Someone in your area who is concerned about personal security and ready to buy. What other businesses might be serving this client <strong><i>right now</i></strong>? A few come to mind right away: 
-
-* Realtors
-* Installers of wired home security systems
-* Krav Maga and other self-defense class providers (online or offline)
-* Providers of guard dogs and guard dog training
-* Individuals or institutions providing personal defense training and products
-
-In addition, your ideal locksmith client may visit their local police station to ask for advice on improving their security. Making your services known to the local police would be a good idea too. 
-
-<i>Example 2:</i>
-
-You provide business financing to select industries. In this scenario you likely have specific parameters for your ideal client, such as length of time in business, average monthly sales. 
-
-What businesses might be serving your ideal client right now? CPAs and business consultants for starters. If you provide a <a href="https://www.spearfishcap.com/" target="blank">type of financing</a> that banks don’t, then local and regional banks should be on your list. 
-
-
 Once you put your mind to it, you’ll be surprised at the number of possibilities you come up with.
 
-Also consider businesses that are offering the same exact service you are, but for some reason, are unable to service a subset of their clients, whom you can service.
+Be sure to include businesses that are offering the same exact service you are, but for some reason, are unable to satisfy a subset of their clients, whom you can service.
 
 Some reasons why a business might not be able to service a client might include: 
 
