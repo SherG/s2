@@ -16,8 +16,8 @@ One of the areas most overlooked by small business owners are <strong>referral p
 
 This article focuses on a specific type of partnership where an individual or a business <i>already serving your ideal clients</i>, agrees to send qualified leads to you because it benefits them to do so.
 
-* The referring individual or business seeks to earn goodwill from their customers: the referral helps the client solve a problem. (The referrer’s practice area or business model may lead them to decline payment for referrals.)
-* The referring individual or business may not only want to help the customer solve the problem, but they also would like to receive compensation from you when the referral converts. 
+* The referrer may seek to earn goodwill from their customers: the referral helps the client solve a problem. 
+* The referring individual or business may not only want to help the customer solve the problem, but they also would like to receive compensation from you when the referral converts. (Realize that the referrer’s practice area or business model may lead them to decline payment for referrals.)
 
 Often the referring business will be one that offers a service tangential to and complementary to your own. But a partner can also be an influential player who is strategically in the flow of numerous deals with clients that you can service. And don’t overlook well-connected retirees. 
 
@@ -33,7 +33,7 @@ Instead of spending on ads, LinkedIn Navigator, content marketing, and other cos
 
 First, identify types of businesses that are <strong>already providing professional services to your ideal client</strong>. Once you put your mind to it, you’ll be surprised at the number of possibilities you come up with.
 
-Be sure to include businesses that are offering the same exact service you are, but for some reason, are unable to satisfy a subset of their clients, whom you can service.
+Be sure to include businesses that are offering the <em>same exact service(s)</i> you are, but for some reason, are unable to satisfy a subset of their clients, whom you can service.
 
 Some reasons why a business might not be able to service a client might include: 
 
