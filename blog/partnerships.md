@@ -33,7 +33,7 @@ Instead of spending on ads, LinkedIn Navigator, content marketing, and other cos
 
 First, identify types of businesses that are <strong>already providing professional services to your ideal client</strong>. Once you put your mind to it, you’ll be surprised at the number of possibilities you come up with.
 
-Be sure to include businesses that are offering the <em>same exact service(s)</i> you are, but for some reason, are unable to satisfy a subset of their clients, whom you can service.
+Be sure to include businesses that are offering the <em>same exact service(s)</em> you are, but for some reason, are unable to satisfy a subset of their clients, whom you can service.
 
 Some reasons why a business might not be able to service a client might include: 
 
