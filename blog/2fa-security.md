@@ -17,7 +17,7 @@ The takeaway:
 
 2. Use 2FA (two-factor authentication) — but don't use the SMS (text message) method because <a href="https://www.theregister.co.uk/2016/12/06/2fa_missed_warning/" target="blank">it's risky</a>. Instead, choose an <a href="https://authy.com/" target="blank">authenticator app</a> or a physical U2F key. 
 
-## Background Reading on 2FA, SMS, and Physical Security Keys
+## Some Background Reading on 2FA, SMS, and Physical Security Keys
 
 While two-factor authentication (2FA) by SMS (text message) is the most familiar and common 2FA method, it’s also insecure. Here’s some background reading to bring you up to date.
 
