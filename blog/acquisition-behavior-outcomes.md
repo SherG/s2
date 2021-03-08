@@ -192,7 +192,7 @@ Both of them will help you plan smart digital strategies. And both are from Goog
 
 These models are: 
 
-1. The <a href="/see-think-do/">See - Think - Do - Care (STDC)</a> framework
+1. The <a href="/see-think-do-model">See - Think - Do - Care (STDC)</a> framework
 2. The <a href="/dmmm/">Digital Measurement and Marketing Model (DMMM)</a>. 
 
 The <a href="/see-think-do">See - Think - Do framework</a>  model will help you think strategically about your channels. 
