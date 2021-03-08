@@ -14,7 +14,7 @@ It's been a long time since I've thought about Drupal. All of the sites I own ar
 
 ## What is the Jamstack? 
 
-Jamstack is a term coined by Mathias Biilmann to describe a modern approach to web architecture that delivers exceptional speed, performance, scalability, security, and ultra-simplified workflows -- all in a cost-efficent way. This approach uses (or "stacks") 3 core technologies: JavaScript, APIs, and Markup, or "JAM." 
+Jamstack is a term coined by Mathias Biilmann to describe a modern approach to web architecture that delivers exceptional speed, performance, scalability, security, and ultra-simplified workflows -- all in a cost-efficent way. This approach uses (or "stacks") 3 core technologies: JavaScript, APIs, and Markup, i.e., "JAM." 
 
 This approach began as an organic movement among developers to build websites that delivered a better user experience. They questioned current dogmas, and  jettisoned the use of web apps like WordPress and Drupal, which they viewed as "monolithic," slow, inefficient, complicated, and outdated. WordPress and Joomla were the past. They were creating the future web.
 
